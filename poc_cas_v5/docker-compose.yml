@@ -1,0 +1,53 @@
+version: '2'
+
+services:
+
+  apca_cas_server:
+    image: tomcat:8.0-jre8
+    container_name: apca_cas_server
+    ports:
+      - 8080:8080
+      - 8443:8443
+    mem_limit: 2048m
+    restart: always
+    environment:
+    - TERM=xterm
+    - TZ=Europe/Paris
+    volumes:
+      - /opt/docker/cas/log:/etc/cas/log
+      - /opt/docker/cas/config:/etc/cas/config
+      - /opt/docker/cas/services:/etc/cas/services
+      - /opt/docker/cas/webapps:/usr/local/tomcat/webapps/
+      - /opt/docker/cas/server.xml:/usr/local/tomcat/conf/server.xml
+      - /opt/docker/cas/thekeystore:/etc/cas/thekeystore
+    links:
+      - apca_cas_openldap:ldap
+    network_mode: bridge
+
+  apca_cas_openldap:
+    image: apca/openldap:1.1.10
+    container_name: apca_cas_openldap
+    restart: always
+    labels:
+      wcm-zabbix: 'yes'
+    ports:
+    - 389:389
+    environment:
+    - TERM=xterm
+    - TZ=Europe/Paris
+    volumes:
+#    - /opt/docker/cas/ldap_chambagri/ldif/:/container/service/slapd/assets/config/bootstrap/ldif/custom/
+    - /opt/docker/cas/ldap_chambagri/data:/var/lib/ldap
+    - /opt/docker/cas/ldap_chambagri/data_tiers/:/var/lib/ldap_tiers
+    - /opt/docker/cas/ldap_chambagri/etc/:/etc/ldap/slapd.d
+    - /opt/docker/cas/ldap_chambagri/prepopulate:/container/service/slapd/prepopulate
+    network_mode: bridge
+
+  apca_cas_phpldapadmin:
+#    image: dinkel/phpldapadmin
+    build:
+        context: phpldapadmin-apca
+    container_name: apca_cas_phpldapadmin
+    links:
+      - apca_cas_openldap:openldap
+    network_mode: bridge

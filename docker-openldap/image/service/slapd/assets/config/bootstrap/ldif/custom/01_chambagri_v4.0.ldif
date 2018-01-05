@@ -1,0 +1,84 @@
+dn: cn=chambagri,cn=schema,cn=config
+changetype: add
+objectClass: olcSchemaConfig
+cn: chambagri
+olcAttributeTypes: {0}( 99.98.1 NAME 'adresse2' DESC 'RFC2256: postal address'
+  EQUALITY caseIgnoreListMatch SUBSTR caseIgnoreListSubstringsMatch SYNTAX 1.3
+ .6.1.4.1.1466.115.121.1.41 )
+olcAttributeTypes: {1}( 99.98.2 NAME 'email2' DESC 'RFC1274: RFC822 Mailbox'  
+  EQUALITY caseIgnoreIA5Match   SUBSTR caseIgnoreIA5SubstringsMatch   SYNTAX 1
+ .3.6.1.4.1.1466.115.121.1.26{256} )
+olcAttributeTypes: {2}( 99.98.3 NAME 'mailPublic' DESC 'RFC1274: RFC822 Mailbo
+ x'   EQUALITY caseIgnoreIA5Match   SUBSTR caseIgnoreIA5SubstringsMatch   SYNT
+ AX 1.3.6.1.4.1.1466.115.121.1.26{256} )
+olcAttributeTypes: {3}( 99.98.4 NAME 'telephone2'  DESC 'RFC2256: Telephone Nu
+ mber' EQUALITY telephoneNumberMatch SUBSTR telephoneNumberSubstringsMatch SYN
+ TAX 1.3.6.1.4.1.1466.115.121.1.50{32} )
+olcAttributeTypes: {4}( 99.98.5 NAME 'telephonePublic'  DESC 'RFC2256: Telepho
+ ne Number' EQUALITY telephoneNumberMatch SUBSTR telephoneNumberSubstringsMatc
+ h SYNTAX 1.3.6.1.4.1.1466.115.121.1.50{32} )
+olcAttributeTypes: {5}( 99.98.6 NAME 'mobile2' DESC 'RFC1274: mobile telephone
+  number' EQUALITY telephoneNumberMatch SUBSTR telephoneNumberSubstringsMatch 
+ SYNTAX 1.3.6.1.4.1.1466.115.121.1.50 )
+olcAttributeTypes: {6}( 99.98.7 NAME 'fax2' DESC 'RFC2256: Facsimile (Fax) Tel
+ ephone Number' SYNTAX 1.3.6.1.4.1.1466.115.121.1.22 )
+olcAttributeTypes: {7}( 99.98.9 NAME 'salarieCA' SUP name )
+olcAttributeTypes: {8}( 99.98.10 NAME 'agricole' SUP name )
+olcAttributeTypes: {9}( 99.98.11 NAME 'eluCA' SUP name )
+olcAttributeTypes: {10}( 99.98.12 NAME 'college' SUP name )
+olcAttributeTypes: {11}( 99.98.13 NAME 'commissionProfessionnelle' SUP name )
+olcAttributeTypes: {12}( 99.98.14 NAME 'titre' SUP name )
+olcAttributeTypes: {13}( 99.98.15 NAME 'service' SUP name )
+olcAttributeTypes: {14}( 99.98.16 NAME 'metier' SUP name )
+olcAttributeTypes: {15}( 99.98.17 NAME 'domaineActivite' SUP Name )
+olcAttributeTypes: {16}( 99.98.18 NAME 'motClef' SUP name )
+olcAttributeTypes: {17}( 99.98.19 NAME 'site' SUP name )
+olcAttributeTypes: {18}( 99.98.20 NAME 'uidbdi' SUP name )
+olcAttributeTypes: {19}( 99.98.21 NAME 'company' SUP name )
+olcAttributeTypes: {20}( 99.98.22 NAME 'siren' SUP name )
+olcAttributeTypes: {21} ( 99.98.23 NAME 'actif'  EQUALITY booleanMatch  SYNTAX
+  1.3.6.1.4.1.1466.115.121.1.7)
+olcAttributeTypes: {22}( 99.98.24 NAME 'QRSecret' SUP name )
+olcAttributeTypes: {23}( 99.98.25 NAME 'codeCompany' SUP name )
+olcAttributeTypes: {24}( 99.98.26 NAME 'typeTiers' SUP name )
+olcAttributeTypes: {25} ( 99.98.27 NAME 'pwdGenereParRegion'  EQUALITY boolean
+ Match  SYNTAX 1.3.6.1.4.1.1466.115.121.1.7)
+olcAttributeTypes: {26}( 99.98.28 NAME 'profil' SUP name )
+olcAttributeTypes: {27} ( 99.98.29 NAME 'alimentationGrc'  EQUALITY booleanMat
+ ch  SYNTAX 1.3.6.1.4.1.1466.115.121.1.7)
+olcAttributeTypes: {28} (  99.98.30    NAME 'DateOfBirth'     DESC 'Date of bi
+ rth (format YYYYMMDD, only numeric chars)'     EQUALITY numericStringMatch   
+   ORDERING numericStringOrderingMatch     SUBSTR numericStringSubstringsMatch
+      SINGLE-VALUE     SYNTAX 1.3.6.1.4.1.1466.115.121.1.36 )
+olcAttributeTypes: {29}( 99.98.31 NAME 'syndicat' SUP name )
+olcAttributeTypes: {30}( 99.98.32 NAME 'messagerie' SUP name )
+olcAttributeTypes: {31}( 99.98.33 NAME 'ressource' SUP name )
+olcAttributeTypes: {32}( 99.98.34 NAME 'visibilityAddressBooks' SUP name )
+#olcAttributeTypes: {33}( 99.98.35 NAME 'mailAlias' DESC 'RFC1274: RFC822 Mailb
+ ox' EQUALITY caseIgnoreIA5Match SUBSTR caseIgnoreIA5SubstringsMatch SYNTAX 1.
+ 3.6.1.4.1.1466.115.121.1.26{256} )
+olcAttributeTypes: {34}( 99.98.36 NAME 'codeVisibilite' SUP name )
+olcAttributeTypes: {35} ( 99.98.37 NAME 'envoiMailpwd' EQUALITY booleanMatch S
+ YNTAX 1.3.6.1.4.1.1466.115.121.1.7 )
+olcAttributeTypes: {36}( 99.98.38 NAME 'profilNat' SUP name )
+olcAttributeTypes: {37}( 99.98.39 NAME 'login' SUP name )
+olcAttributeTypes: {38}( 99.98.40 NAME 'proprietaireUid' DESC 'Definit la base
+  OCTAGRI proprietaire' SUP name )
+olcattributetypes: {39} ( 99.98.42 NAME 'desactiveNat' DESC 'Permet de desac
+ tiver un compte'  EQUALITY booleanMatch  SYNTAX 1.3.6.1.4.1.1466.115.121.1.
+ 7)
+olcAttributeTypes: {40}( 99.98.41 NAME 'identiteChambre' DESC 'Code etablissem
+ ent' SUP name )
+olcObjectClasses: {0}( 99.98.200 NAME 'comptesca' SUP inetOrgPerson STRUCTURAL
+  MUST ( cn $ sn $ uid $ salarieCA $ eluCA $ agricole ) MAY ( userPassword $ u
+ idBdi $ givenName $ personalTitle $ postalAddress $ adresse2 $ postalcode $ l
+  $ mail $ email2 $ mailPublic $ telephoneNumber $ telephone2 $ telephonePubli
+ c $ mobile $ mobile2 $ facsimileTelephoneNumber $ fax2 $ company $ college $ 
+ commissionProfessionnelle $ titre $ service $ title $ metier $ domaineActivit
+ e $ motClef $ site $ jpegPhoto $ siren $ displayName$ postOfficeBox $ physica
+ lDeliveryOfficeName $ description $ friendlyCountryName $ QRSecret $ codeComp
+ any $ typeTiers $ labeledURI $ pwdGenereParRegion $ actif $ alimentationGrc $
+  DateOfBirth $ syndicat $ profil $ messagerie $ ressource $ visibilityAddress
+ Books $ mailAlias $ codeVisibilite $ envoiMailpwd $ profilNat $ login $ emplo
+ yeeNumber $ proprietaireUid $ identiteChambre $ desactiveNat) )
+

@@ -1,0 +1,13 @@
+dn: cn=superadmin,ou=administration,o=tiers
+objectclass: comptesca
+objectclass: top
+cn: superadmin
+sn: superadmin
+uid: superadmin
+login: superadmin
+actif: TRUE
+agricole: APCA
+alimentationgrc: FALSE
+eluca: NON
+salarieca: NON
+userpassword: {SSHA}n+elnETInRUvmfYZQadqKW1UFCi5rYpe

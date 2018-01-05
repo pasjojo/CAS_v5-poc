@@ -1,0 +1,35 @@
+dn: o=tiers
+o: tiers
+objectclass: organization
+objectclass: top
+
+dn: ou=externes,o=tiers
+objectClass: organizationalUnit
+objectClass: top
+ou: externes
+
+dn: ou=externes_tmp,o=tiers
+objectClass: organizationalUnit
+objectClass: top
+ou: externes_tmp
+
+dn: ou=internes,o=tiers
+objectClass: organizationalUnit
+objectClass: top
+ou: internes
+
+dn: ou=ressources,o=tiers
+objectClass: organizationalUnit
+objectClass: top
+ou: ressources
+
+dn: ou=administration,o=tiers
+objectClass: organizationalUnit
+objectClass: top
+ou: administration
+
+dn: ou=groupes,o=tiers
+objectClass: organizationalUnit
+objectClass: top
+ou: groupes
+

@@ -1,0 +1,81 @@
+# Entrée 1: olcDatabase={3}hdb,cn=config
+dn: olcDatabase={3}hdb,cn=config
+changeType: add
+objectclass: olcDatabaseConfig
+objectclass: olcHdbConfig
+olcaccess: {0}to attrs=userPassword by  dn="cn=superadmin,ou=administration,
+ o=tiers" write  by set="this/manager/member* & user" write  by anonymous au
+ th by self write by * none
+olcaccess: {1}to dn.base="" by * read
+olcaccess: {2}to * by self write by dn="cn=Manager,o=tiers" write by * read
+olcdatabase: {3}hdb
+olcdbcheckpoint: 512 30
+olcdbconfig: {0}set_cachesize 0 2097152 0
+olcdbconfig: {1}set_lk_max_objects 1500
+olcdbconfig: {2}set_lk_max_locks 1500
+olcdbconfig: {3}set_lk_max_lockers 1500
+olcdbdirectory: /var/lib/ldap_tiers
+olcdbindex: objectClass eq
+olcdbindex: cn eq,sub
+olcdbindex: gidNumber eq
+olcdbindex: member eq
+olcdbindex: memberUid eq
+olcdbindex: uid eq
+olcdbindex: uidNumber eq
+olcdbindex: entryCSN eq
+olcdbindex: entryUUID eq
+olcdbindex: codeCompany eq
+olcdbindex: salarieCA eq
+olcdbindex: agricole eq
+olcdbindex: eluCA eq
+olcdbindex: actif eq
+olcdbindex: messagerie eq
+olcdbindex: sn eq,sub
+olcdbindex: displayName eq,sub
+olcdbindex: mail eq,sub
+olcdbindex: login eq
+olcdbindex: profil eq
+olcdbindex: codeVisibilite eq
+olcdbindex: employeeNumber eq
+olclastmod: TRUE
+olcrootdn: cn=Manager,o=tiers
+olcrootpw: {SSHA}uIisZApml7SFSWM5o1pJcnUrnpwkVTR9
+olcsizelimit: 20000
+olcsuffix: o=tiers
+
+# # Entrée 2: olcOverlay={0}syncprov,olcDatabase={3}hdb,cn=config
+# dn: olcOverlay={0}syncprov,olcDatabase={3}hdb,cn=config
+# changeType: add
+# objectclass: olcOverlayConfig
+# objectclass: olcSyncProvConfig
+# objectclass: top
+# olcoverlay: {0}syncprov
+# olcspnopresent: TRUE
+# 
+# # Entrée 3: olcOverlay={1}accesslog,olcDatabase={3}hdb,cn=config
+# dn: olcOverlay={1}accesslog,olcDatabase={3}hdb,cn=config
+# changeType: add
+# objectclass: olcOverlayConfig
+# objectclass: olcAccessLogConfig
+# objectclass: top
+# olcaccesslogdb: cn=accesslog_tiers
+# olcaccesslogops: writes
+# olcaccesslogpurge: 07+00:00 01+00:00
+# olcaccesslogsuccess: TRUE
+# olcoverlay: {1}accesslog
+# 
+# # Entrée 4: olcOverlay={2}dynlist,olcDatabase={3}hdb,cn=config
+# dn: olcOverlay={2}dynlist,olcDatabase={3}hdb,cn=config
+# changeType: add
+# objectclass: olcOverlayConfig
+# objectclass: olcDynamicList
+# olcdlattrset: {0}groupOfUrls memberURL member
+# olcoverlay: {2}dynlist
+# 
+# # Entrée 5: olcOverlay={3}ppolicy,olcDatabase={3}hdb,cn=config
+# dn: olcOverlay={3}ppolicy,olcDatabase={3}hdb,cn=config
+# changeType: add
+# objectclass: olcOverlayConfig
+# objectclass: olcPPolicyConfig
+# olcoverlay: {3}ppolicy
+# olcppolicyuselockout: TRUE

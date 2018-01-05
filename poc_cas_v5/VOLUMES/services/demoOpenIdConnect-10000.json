@@ -1,0 +1,56 @@
+{
+  @class: org.apereo.cas.services.OidcRegisteredService
+  serviceId: https://localhost:5443/callback
+  name: demoOpenIdConnect
+  id: 10000
+  description: Demo Open Id Connect avec Python Flask
+  proxyPolicy:
+  {
+    @class: org.apereo.cas.services.RefuseRegisteredServiceProxyPolicy
+  }
+  evaluationOrder: 5
+  usernameAttributeProvider:
+  {
+    @class: org.apereo.cas.services.DefaultRegisteredServiceUsernameProvider
+    canonicalizationMode: NONE
+    encryptUsername: false
+  }
+  attributeReleasePolicy:
+  {
+    @class: org.apereo.cas.services.ReturnAllAttributeReleasePolicy
+    principalAttributesRepository:
+    {
+      @class: org.apereo.cas.authentication.principal.DefaultPrincipalAttributesRepository
+      expiration: 2
+      timeUnit: HOURS
+    }
+    authorizedToReleaseCredentialPassword: false
+    authorizedToReleaseProxyGrantingTicket: false
+    excludeDefaultAttributes: false
+  }
+  multifactorPolicy:
+  {
+    @class: org.apereo.cas.services.DefaultRegisteredServiceMultifactorPolicy
+    failureMode: CLOSED
+    bypassEnabled: false
+  }
+  accessStrategy:
+  {
+    @class: org.apereo.cas.services.DefaultRegisteredServiceAccessStrategy
+    enabled: true
+    ssoEnabled: true
+    requireAllAttributes: true
+    caseInsensitive: false
+  }
+  clientSecret: Password1
+  clientId: client-1
+  bypassApprovalPrompt: false
+  generateRefreshToken: false
+  jsonFormat: true
+  signIdToken: true
+  encryptIdToken: false
+  idTokenEncryptionAlg: RSA
+  idTokenEncryptionEncoding: AQAB
+  dynamicallyRegistered: false
+  implicit: false
+}

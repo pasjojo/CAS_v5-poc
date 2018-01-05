@@ -1,0 +1,12 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http://172.17.0.[2-9]:3000/.*",
+  "name" : "demo redmine cas",
+  "id": 151248298422,
+  "description" : "CAS for redmine with all attribute release policy",
+  "attributeReleasePolicy" : {
+    "@class" : "org.apereo.cas.services.ReturnAllAttributeReleasePolicy"
+  },
+  "evaluationOrder" : 1100
+}
+

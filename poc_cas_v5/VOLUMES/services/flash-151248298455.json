@@ -1,0 +1,12 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http://.*:5000/.*",
+  "name" : "Python flask",
+  "id": 151248298455,
+  "description" : "CAS for python flask",
+  "attributeReleasePolicy" : {
+    "@class" : "org.apereo.cas.services.ReturnAllAttributeReleasePolicy"
+  },
+  "evaluationOrder" : 100
+}
+

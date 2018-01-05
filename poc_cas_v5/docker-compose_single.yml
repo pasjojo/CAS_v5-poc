@@ -1,0 +1,25 @@
+version: '2'
+
+services:
+
+  cas:
+    image: openjdk:8-jdk-alpine
+    ports:
+      - 8080:8080
+      - 8443:8443
+    mem_limit: 2048m
+    restart: always
+    environment:
+    - TERM=xterm
+    - TZ=Europe/Paris
+    volumes:
+      - /opt/docker/cas/log:/etc/cas/log
+      - /opt/docker/cas/config:/etc/cas/config
+      - /opt/docker/cas/webapps:/app
+      - /opt/docker/cas/thekeystore:/etc/cas/thekeystore
+    entrypoint:
+      - java
+      - -jar
+      - /app/cas.war
+    network_mode: bridge
+

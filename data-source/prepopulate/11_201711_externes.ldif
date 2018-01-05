@@ -1,0 +1,5137 @@
+dn: uid=6WKJVGKM,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: AGENCE ANIMATION
+postalCode: 22170
+eluCA: Non
+mail: e708073843caf9399782a10ec92f2919@yopmail.com
+envoiMailpwd: TRUE
+uid: 6WKJVGKM
+login: 381456425
+login: 6WKJVGKM
+mobile: +33 (0)6 20 07 25 07
+sn: COVERTLY
+cn: AGENCE ANIMATION
+displayName: Mattéo COVERTLY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 381456425
+titre: Pas de titre
+typeTiers: Entreprise
+l: PLOUVARA
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+company: AGENCE ANIMATION
+userPassword:: e1NTSEF9ZFoxS1NNWSt6N0xnNVhsa2pDS2Fqc3A0L1JHYzZyMGQ=
+profil: Ad_0000021_R53-CRA234-0000e500019b5acb
+profil: OPENVPN-CRA234-USERMP
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6WLQTBD9,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6WLQTBD9
+postalAddress: AGENCE NATIONALE DE SECURITE SAN
+postalCode: 22440
+eluCA: Non
+mail: 7dc48624986af9b5183feae603ecf4e2@yopmail.com
+envoiMailpwd: TRUE
+login: fmadec
+login: 6WLQTBD9
+sn: CONCEPTIONS
+cn: AGENCE NATIONALE DE SECURITE SAN
+displayName: Melissa CONCEPTIONS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 130012024
+company: AGENCE NATIONALE DE SECURITE SAN
+telephoneNumber: +33 (0)2 99 94 78 00
+titre: Pas de titre
+typeTiers: Entreprise
+l: PLOUFRAGAN
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+profil: Ad_0000021_R53-CRA234-0000e500019b5acb
+profil: Ad_0000023_R53-CRA234-0000e50001a2a886
+profil: OPUS-CRA234-PROFIL10
+profil: OPUS-CRA234-PROFIL1
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6WLU8TGO,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: ATLANTIQUE SOLEIL
+postalCode: 56250
+eluCA: Non
+mail: 1443ae4d2bcd7eb8cbc36c48ef6f0836@yopmail.com
+envoiMailpwd: TRUE
+uid: 6WLU8TGO
+login: atlantique
+login: 6WLU8TGO
+sn: ENTHRONES
+cn: ATLANTIQUE SOLEIL
+displayName: Marceau ENTHRONES
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+titre: Pas de titre
+typeTiers: Entreprise
+l: SULNIAC
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+company: ATLANTIQUE SOLEIL
+profil: Ad_0000021_R53-CRA234-0000e500019b5acb
+profil: OPENVPN-CRA234-USERMP
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6WLU999I,ou=externes,o=tiers
+alimentationGrc: TRUE
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+actif: FALSE
+postalAddress:: QUJCRSBTw6liYXN0aWVu
+postalCode: 22400
+eluCA: Non
+mail: 4731b8324ba5247bcc8eb95d6c2e2756@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 96 31 33 14
+uid: 6WLU999I
+login: 452750037
+login: 6WLU999I
+sn: CONDUIT
+cn: ABBE SEBASTIEN
+displayName: James CONDUIT
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 452750037
+telephoneNumber: +33 (0)2 96 31 33 10
+titre: Pas de titre
+typeTiers: Entreprise
+l: LAMBALLE
+visibilityAddressBooks: TRUE
+proprietaireUid: CRA234
+identiteChambre: CA22
+company: ABBE SEBASTIEN
+
+dn: uid=6WM1WGQ8,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+personalTitle: M
+postalCode: 75000
+eluCA: Non
+mail: 5bbb24e0482e770a0a85aa161262a3b4@yopmail.com
+envoiMailpwd: TRUE
+uid: 6WM1WGQ8
+login: jouchetg49r
+login: 6WM1WGQ8
+employeeNumber: jouchetg49r
+sn: BYPASSED
+cn: JOUCHET Gilles
+displayName: Arthur BYPASSED
+co: FRANCE
+givenName: Arthur
+agricole: Non
+ressource: Non
+salarieCA: Non
+titre: Pas de titre
+typeTiers: Individu
+l: PARIS
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+userPassword:: e1NTSEF9elhoNzQ1U1kydEhvcERuZllPYmpCdkxUYVlpWkx3aUc=
+profil: Ad_0000020_R53-CRA234-0000e500019b5bfe
+profil: OCTAGRI-CRA234-ACTEUR
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6WM2A0J0,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+personalTitle: MME
+postalCode: 75000
+eluCA: Non
+mail: fbab788dbe53104d8a941e49cc30b808@yopmail.com
+envoiMailpwd: TRUE
+uid: 6WM2A0J0
+login: quinioc35r
+login: 6WM2A0J0
+employeeNumber: quinioc35d
+sn: ACCORDINGLY
+cn: QUINIO Clotilde
+displayName: Christian ACCORDINGLY
+co: FRANCE
+givenName: Christian
+agricole: Non
+ressource: Non
+salarieCA: Non
+titre: Pas de titre
+typeTiers: Individu
+l: PARIS
+visibilityAddressBooks: TRUE
+userPassword:: e1NTSEF9U2JQaWd2NkNYTkhkU0ZsenRkRFNjUXoyU2pDa1VuM1Y=
+profil: Ad_0000020_R53-CRA234-0000e500019b5bfe
+profil: OCTAGRI-CRA234-ACTEUR
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=teste75n,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalCode: 22190
+eluCA: Non
+login: 521680959
+login: teste75n
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 521680959
+telephoneNumber: +33 (0)2 96 75 40 76
+titre: Pas de titre
+typeTiers: Entreprise
+l: PLERIN
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: Ad_0000023_R53-CRA234-0000e50001a2a886
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+uid: teste75n
+cn: Test EXTERNE
+company: ENTREPRISE EXTERNE
+displayName: Oscar MANNING
+mail: 26ec3cf82e8e6e26761dbcc58eb0aa73@yopmail.com
+envoiMailpwd: FALSE
+postalAddress: EXTERNE
+sn: MANNING
+userPassword:: e1NTSEF9WHIwWFo1V3ZMRHZtcDJWckNHNTE3UXBWK3loOGRoazg=
+
+dn: uid=6X1TIU9I,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6X1TIU9I
+postalAddress: M ABBE RONAN
+personalTitle: M
+postalCode: 22130
+DateOfBirth: 19841203
+eluCA: Non
+mail: 51f754fc27b827dc98df67dee3d45be0@yopmail.com
+envoiMailpwd: TRUE
+login: rabbe234
+login: 6X1TIU9I
+mobile: +33 (0)6 84 88 27 42
+sn: AUTOMOBILES
+cn: ABBE Ronan
+displayName: Marceau AUTOMOBILES
+co: FRANCE
+givenName: Marceau
+agricole: Non
+ressource: Non
+salarieCA: Non
+titre: Pas de titre
+typeTiers: Individu
+l: BOURSEUL
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+profil: Ad_0000021_R53-CRA234-0000e500019b5acb
+profil: OPENVPN-CRA234-USERMP
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X1UBE37,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6X1UBE37
+postalAddress: M. ABBE YVES-MARIE
+personalTitle: M
+postalCode: 22130
+DateOfBirth: 19780327
+eluCA: Non
+envoiMailpwd: TRUE
+mobile: +33 (0)6 82 81 42 34
+sn: GUARANTEE
+cn: ABBE Yves-Marie
+displayName: Elias GUARANTEE
+co: FRANCE
+givenName: Elias
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 96 83 09 48
+titre: Pas de titre
+typeTiers: Individu
+l: BOURSEUL
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+proprietaireUid: CRA235
+mail: 24642941a0818c65a7cbdbc330d98371@yopmail.com
+login: abbe2.yves-marie@orange.fr
+login: 6X1UBE37
+profil: Ad_0000023_R53-CRA235-0000e50001a3ff8f
+profil: Ad_0000021_R53-CRA235-0000e500019b5acb
+alimentationGrc: TRUE
+actif: TRUE
+
+dn: uid=6X2SP23E,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: M DABOUDET VINCENT
+personalTitle: M
+postalCode: 22230
+DateOfBirth: 19800705
+eluCA: Non
+mail: 48e179d15f595622c8bf4f801dbddcab@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X2SP23E
+login: vdaboudet
+login: 6X2SP23E
+mobile: +33 (0)6 34 25 42 16
+sn: SELECTS
+cn: DABOUDET Vincent
+displayName: Phileas SELECTS
+co: FRANCE
+givenName: Phileas
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)6 34 25 42 16
+typeTiers: Individu
+l: LAURENAN
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL2
+profil: Ad_0000023_R53-CRA234-0000e50001a2a887
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X2T1628,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TU1FIERFIEJBQ0tFUiBBVVLDiUxJRQ==
+personalTitle: MME
+postalCode: 22330
+DateOfBirth: 19870703
+eluCA: Non
+mail: e90a5a5d0f4159a7ddb3a6cc3466b074@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X2T1628
+login: adebacker
+login: 6X2T1628
+mobile: +33 (0)6 61 25 65 00
+sn: LEMONS
+cn:: REUgQkFDS0VSIEF1csOpbGll
+displayName: Astrid LEMONS
+co: FRANCE
+givenName: Astrid
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: LANGOURLA
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: Ad_0000023_R53-CRA234-0000e50001abf50e
+profil: OPUS-CRA234-P_SUIVI_AGRO
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X37RUUC,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: GAEC ALAIN ET ISABELLE ROUILLE
+postalCode: 22570
+eluCA: Non
+mail: f4615f28342fb617eb04a04a513da1d8@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 96 24 23 60
+uid: 6X37RUUC
+login: 421664483
+login: 6X37RUUC
+sn: MARKETING
+cn: GAEC ALAIN ET ISABELLE ROUILLE
+displayName: Ewen MARKETING
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 421664483
+telephoneNumber: +33 (0)2 96 24 23 60
+typeTiers: Entreprise
+l: LESCOUET GOUAREC
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: GAEC ALAIN ET ISABELLE ROUILLE
+profil: Ad_0000023_R53-CRA234-0000e50001abf50e
+profil: OPUS-CRA234-P_SUIVI_AGRO
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X38PXRT,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR LE FER CEDRIC
+personalTitle: M
+postalCode: 56630
+DateOfBirth: 19760308
+eluCA: Non
+mail: 6571fc16c433c1f3312282f2f1f64e6c@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X38PXRT
+login: clefer
+login: 6X38PXRT
+mobile: +33 (0)6 87 26 86 73
+sn: EGYPT
+cn:: TEUgRkVSIEPDqWRyaWM=
+displayName: Louison EGYPT
+co: FRANCE
+givenName: Louison
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: LANGONNET
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: Ad_0000023_R53-CRA234-0000e50001abf50e
+profil: OPUS-CRA234-P_SUIVI_AGRO
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X38PXSE,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR LE GLAND JOEL
+personalTitle: M
+postalCode: 56130
+DateOfBirth: 19670722
+eluCA: Non
+mail: 21e569737d5ecc8f4f003d16526e9924@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X38PXSE
+login: jlegland
+login: 6X38PXSE
+mobile: +33 (0)6 12 10 56 34
+sn: DID
+cn:: TEUgR0xBTkQgSm/Dq2w=
+displayName: Luka DID
+co: FRANCE
+givenName: Luka
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 99 90 87 41
+typeTiers: Individu
+l: FEREL
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: Ad_0000023_R53-CRA234-0000e50001abf50e
+profil: OPUS-CRA234-P_SUIVI_AGRO
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X38PXTI,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR LE FUR JEAN-LOUIS
+personalTitle: M
+postalCode: 56240
+DateOfBirth: 19730609
+eluCA: Non
+mail: 4f7f68e4f732cc96b7ef626696bd7ca3@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X38PXTI
+login: jlefur
+login: 6X38PXTI
+mobile: +33 (0)6 70 48 81 96
+sn: GETZ
+cn: LE FUR Jean-Louis
+displayName: Yanis GETZ
+co: FRANCE
+givenName: Yanis
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 34 22 86
+typeTiers: Individu
+l: BERNE
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: Ad_0000023_R53-CRA234-0000e50001abf50e
+profil: OPUS-CRA234-P_SUIVI_AGRO
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X38PXVC,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR ORHAN JEAN-CHARLES
+personalTitle: M
+postalCode: 56910
+DateOfBirth: 19760125
+eluCA: Non
+mail: 776d883ff973b749d3cd415e415bdfa5@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X38PXVC
+login: jorhan
+login: 6X38PXVC
+mobile: +33 (0)6 15 25 29 29
+sn: LEGER
+cn: ORHAN Jean-Charles
+displayName: Ilian LEGER
+co: FRANCE
+givenName: Ilian
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 99 08 82 68
+typeTiers: Individu
+l: CARENTOIR
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: Ad_0000023_R53-CRA234-0000e50001abf50e
+profil: OPUS-CRA234-P_SUIVI_AGRO
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X38PXVM,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: M GLOUX CHRISTIAN
+personalTitle: M
+postalCode: 56920
+DateOfBirth: 19610822
+eluCA: Non
+mail: 2119d0ecfe9bd84f46ec813f1ea8b7bb@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X38PXVM
+login: cgloux
+login: 6X38PXVM
+mobile: +33 (0)6 07 13 77 56
+sn: UNLEASHING
+cn: GLOUX Christian
+displayName: Elia UNLEASHING
+co: FRANCE
+givenName: Elia
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 25 10 22
+typeTiers: Individu
+l: NOYAL PONTIVY
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: Ad_0000023_R53-CRA234-0000e50001abf50e
+profil: OPUS-CRA234-P_SUIVI_AGRO
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4EVO62,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MME THEAULT MARTINE
+personalTitle: MME
+postalCode: 14039
+eluCA: Non
+mail: a1c0418a7f3b3c35bbefe30daba627ee@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4EVO62
+login: mtheault
+login: 6X4EVO62
+employeeNumber: theaultm14r
+sn: GLOBE
+cn: THEAULT Martine
+displayName: Suzanne GLOBE
+co: FRANCE
+givenName: Suzanne
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 31 74 44 12
+typeTiers: Individu
+l: CAEN
+visibilityAddressBooks: TRUE
+identiteChambre: CRA49
+profil: Ad_0000020_R53-CRA234-0000e500019b5bfe
+profil: Ad_0000023_R53-CRA234-0000e50001a2a888
+profil: OCTAGRI-CRA234-ACTEUR
+profil: Ad_0000023_R53-CRA234-0000e50001a2a886
+profil: OPUS-CRA234-PROFIL2
+profil: Ad_0000023_R53-CRA234-0000e50001a2a887
+profil: OPUS-CRA234-PROFIL3
+profil: OPUS-CRA234-PROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4JIZQD,ou=externes,o=tiers
+alimentationGrc: TRUE
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+actif: FALSE
+postalAddress: EARL AIGNEL
+postalCode: 22330
+eluCA: Non
+mail: a09ea0364b765dd4aa262bafa43331f0@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4JIZQD
+login: 415240019
+login: 6X4JIZQD
+sn: LOYALTY
+cn: EARL AIGNEL
+displayName: Nadir LOYALTY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 415240019
+telephoneNumber: +33 (0)2 96 34 43 79
+titre: Pas de titre
+typeTiers: Entreprise
+l: ST GOUENO
+visibilityAddressBooks: TRUE
+proprietaireUid: CRA234
+identiteChambre: CA49
+company: EARL AIGNEL
+
+dn: uid=6X4LSFII,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: M. SUPIOT FREDERIC
+adresse2: CHAMBRE AGRICULTURE LOIRE ATLANTIQUE
+physicalDeliveryOfficeName: CEDEX 9
+personalTitle: M
+postalCode: 44939
+eluCA: Non
+mail: 178c2f2ef5143e3b53c30ff52374bf02@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4LSFII
+login: fsupiot
+login: 6X4LSFII
+employeeNumber: supiotf49r
+sn: REPORTEDLY
+cn:: U1VQSU9UIEZyw6lkw6lyaWM=
+displayName: Marcel REPORTEDLY
+co: FRANCE
+givenName: Marcel
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 53 46 60 00
+typeTiers: Individu
+l: NANTES
+visibilityAddressBooks: TRUE
+identiteChambre: CRA49
+profil: Ad_0000023_R53-CRA234-0000e50001a2a886
+profil: OPUS-CRA234-PROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4N5MKR,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+personalTitle: MME
+postalCode: 75000
+eluCA: Non
+mail: 4849025c2388c507b37a109dde010c4d@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4N5MKR
+login: bplaideau
+login: 6X4N5MKR
+employeeNumber: plaideab49r
+sn: EYE
+cn: PLAIDEAU Brigitte
+displayName: Orso EYE
+co: FRANCE
+givenName: Orso
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: PARIS
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: Ad_0000020_R53-CRA234-0000e500019b5bfe
+profil: OCTAGRI-CRA234-ACTEUR
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4ND96M,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+personalTitle: MME
+postalCode: 75000
+eluCA: Non
+mail: 868de4c7877e24222a63cbd9a2ba8830@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4ND96M
+login: irenard
+login: 6X4ND96M
+employeeNumber: renardi44d
+sn: PROCESSING
+cn: RENARD Isabelle
+displayName: Jules PROCESSING
+co: FRANCE
+givenName: Jules
+agricole: Non
+ressource: Non
+salarieCA: Non
+titre: Pas de titre
+typeTiers: Individu
+l: PARIS
+visibilityAddressBooks: TRUE
+identiteChambre: CRA49
+profil: Ad_0000020_R53-CRA234-0000e500019b5bfe
+profil: OCTAGRI-CRA234-ACTEUR
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4PPN6H,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+personalTitle: M
+postalCode: 75000
+eluCA: Non
+mail: 6a8277d087edd3a31f01313269225785@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4PPN6H
+login: jpoissonnea
+login: 6X4PPN6H
+employeeNumber: poissonj49r
+sn: HOGGING
+cn: POISSONNEAU Jean-Luc
+displayName: Harry HOGGING
+co: FRANCE
+givenName: Harry
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: PARIS
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4PWP0K,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: SCEA SCL DU TREGOR
+postalCode: 22740
+eluCA: Non
+mail: fbc11b6f5032d0fa9d2977d36364b6bb@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4PWP0K
+login: 493137830
+login: 6X4PWP0K
+sn: HYDROGEN
+cn: SCEA SCL DU TREGOR
+displayName: Diana HYDROGEN
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 493137830
+telephoneNumber: +33 (0)2 96 20 13 41
+typeTiers: Entreprise
+l: PLEUMEUR GAUTIER
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: SCEA SCL DU TREGOR
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4R106D,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR LAMOUR JEAN-YVES
+personalTitle: M
+postalCode: 56500
+DateOfBirth: 19621127
+eluCA: Non
+mail: 37a441a84d830c7a98269d641b1c3207@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4R106D
+login: jlamour
+login: 6X4R106D
+mobile: +33 (0)6 83 73 81 54
+sn: COWRTIERS
+cn: LAMOUR Jean-Yves
+displayName: Ilan COWRTIERS
+co: FRANCE
+givenName: Ilan
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 38 60 69
+typeTiers: Individu
+l: REGUINY
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL2
+profil: Ad_0000023_R53-CRA234-0000e50001a2a887
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4R106Y,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR LEMARCHANT JULIEN
+personalTitle: M
+postalCode: 56700
+DateOfBirth: 19801209
+eluCA: Non
+mail: 4863652b97ea3106efb887d871d7dd63@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4R106Y
+login: jlemarchant
+login: 6X4R106Y
+mobile: +33 (0)6 37 76 83 44
+sn: GRATIFYING
+cn: LEMARCHANT Julien
+displayName: Ysee GRATIFYING
+co: FRANCE
+givenName: Ysee
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: HENNEBONT
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL2
+profil: Ad_0000023_R53-CRA234-0000e50001a2a887
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4R107I,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MM PICAUD CLAUDINE
+personalTitle: MME
+postalCode: 56420
+DateOfBirth: 19680522
+eluCA: Non
+mail: 7a1b8e2a5380ca6dc030e8a73e535fb6@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4R107I
+login: cpicaud
+login: 6X4R107I
+mobile: +33 (0)6 66 61 41 66
+sn: LAUDER
+cn: PICAUD Claudine
+displayName: Sephora LAUDER
+co: FRANCE
+givenName: Sephora
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 75 37 29
+typeTiers: Individu
+l: BULEON
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL2
+profil: Ad_0000023_R53-CRA234-0000e50001a2a887
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4R107W,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR BAYON LOIC
+personalTitle: M
+postalCode: 56910
+DateOfBirth: 19690227
+eluCA: Non
+mail: 746abf4f8f4f74feef91c2e7edc55088@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 97 93 76 99
+uid: 6X4R107W
+login: lbayon
+login: 6X4R107W
+mobile: +33 (0)6 22 06 68 37
+sn: CORNING
+cn:: QkFZT04gTG/Dr2M=
+displayName: Elia CORNING
+co: FRANCE
+givenName: Elia
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 93 77 83
+typeTiers: Individu
+l: ST NICOLAS DU TERTRE
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL2
+profil: Ad_0000023_R53-CRA234-0000e50001a2a887
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4R1087,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR RAFFRAY MATTHIEU
+personalTitle: M
+postalCode: 56580
+DateOfBirth: 19770829
+eluCA: Non
+mail: bfa6509e5ab2f223ce33b1d43136324a@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4R1087
+login: mraffray
+login: 6X4R1087
+mobile: +33 (0)6 81 07 33 40
+sn: PAGEANTRY
+cn: RAFFRAY Matthieu
+displayName: Maxim PAGEANTRY
+co: FRANCE
+givenName: Maxim
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 51 55 69
+typeTiers: Individu
+l: CREDIN
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL2
+profil: Ad_0000023_R53-CRA234-0000e50001a2a887
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4R1093,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR BOEFFARD JEAN-PAUL
+personalTitle: M
+postalCode: 56190
+DateOfBirth: 19630910
+eluCA: Non
+mail: 3089adc562b81e038eeb79556dbfb939@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4R1093
+login: jboeffard
+login: 6X4R1093
+mobile: +33 (0)6 88 34 64 34
+sn: BASIL
+cn: BOEFFARD Jean-Paul
+displayName: Mayssa BASIL
+co: FRANCE
+givenName: Mayssa
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 41 52 33
+typeTiers: Individu
+l: MUZILLAC
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL2
+profil: Ad_0000023_R53-CRA234-0000e50001a2a887
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4R111I,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MM DAMERON TABOIT FREDERIQUE
+personalTitle: MME
+postalCode: 56390
+DateOfBirth: 19680117
+eluCA: Non
+mail: b1369074119b9e89dbe29a052ede2463@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4R111I
+login: fdamerontab
+login: 6X4R111I
+mobile: +33 (0)6 62 14 26 46
+sn: COMPANION
+cn: DAMERON TABOIT Frederique
+displayName: Asma COMPANION
+co: FRANCE
+givenName: Asma
+agricole: Oui
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 61 47 94
+typeTiers: Individu
+l: GRAND CHAMP
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL2
+profil: Ad_0000023_R53-CRA234-0000e50001a2a887
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4R111S,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR ROUXEL PHILIPPE
+personalTitle: M
+postalCode: 56350
+DateOfBirth: 19660920
+eluCA: Non
+mail: 726423afff7770f2441d9e3edc6aeb12@yopmail.com
+mailAlias:: IGpjLnJvdXhlbEBvcmFuZ2UuZnI=
+envoiMailpwd: TRUE
+uid: 6X4R111S
+login: prouxel
+login: 6X4R111S
+mobile: +33 (0)6 87 32 04 20
+sn: KNOTS
+cn: ROUXEL Philippe
+displayName: Steeve KNOTS
+co: FRANCE
+givenName: Steeve
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 99 91 91 11
+typeTiers: Individu
+l: RIEUX
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL2
+profil: Ad_0000023_R53-CRA234-0000e50001a2a887
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6X4TAPP8,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: SCL BRAMBEC D'EN HAUT
+postalCode: 56890
+eluCA: Non
+mail: d4e5a0913c2e8678adc23cfbe5e87d4e@yopmail.com
+envoiMailpwd: TRUE
+uid: 6X4TAPP8
+login: 490118429
+login: 6X4TAPP8
+mobile: +33 (0)6 61 33 65 04
+sn: HONESTY
+cn: SCL BRAMBEC D'EN HAUT
+displayName: Nina HONESTY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 490118429
+telephoneNumber: +33 (0)2 97 60 72 77
+typeTiers: Entreprise
+l: PLESCOP
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: SCL BRAMBEC D'EN HAUT
+profil: Ad_0000025_R53-CRA234-0000e50001aca224
+profil: GESTEA-CRA234-GESTEA_1
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XLS98CB,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+personalTitle: M
+postalCode: 75000
+eluCA: Non
+mail: f44423143466c88fb9cdfc7056c2c590@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XLS98CB
+login: duvaltic75e
+login: 6XLS98CB
+employeeNumber: duvaltic75e
+sn: PRACTICALLY
+cn:: RFVWQUxUSUVSIENsw6ltZW50
+displayName: Daphnee PRACTICALLY
+co: FRANCE
+givenName: Daphnee
+agricole: Non
+ressource: Non
+salarieCA: Non
+titre: Pas de titre
+typeTiers: Individu
+l: PARIS
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+userPassword:: e1NTSEF9b3BsLy9XY00zTURpKzdxQVpmWmxjcnA3WGJuZmw3Tjk=
+profil: Ad_0000020_R53-CRA234-0000e500019b5bfe
+profil: OCTAGRI-CRA234-ACTEUR
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XMU3D0P,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+personalTitle: M
+postalCode: 75000
+eluCA: Non
+mail: b38f4e894e40701b319df8effe3a9ae3@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XMU3D0P
+login: mvinais
+login: 6XMU3D0P
+employeeNumber: vinaism75r
+sn: MAYER
+cn: VINAIS Maxime
+displayName: Lindsay MAYER
+co: FRANCE
+givenName: Lindsay
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: PARIS
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+profil: Ad_0000023_R53-CRA234-0000e50001a2a886
+profil: Octagri-REG34-Octagri
+profil: OPUS-CRA234-PROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+userPassword:: e1NTSEF9KzlCSHpQOHpLUFQ3L1Z2VGxsUmFuZmVNSkQ1UVZtVmc=
+
+dn: uid=6XN02PS9,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6XN02PS9
+postalAddress: MR ABALAIN RENE
+personalTitle: M
+postalCode: 29252
+eluCA: Non
+mail: 550cb01e38b3331c411f97042131e858@yopmail.com
+envoiMailpwd: TRUE
+login: umanisreneabalain
+login: 6XN02PS9
+sn: COMBATTED
+cn:: QUJBTEFJTiBSZW7DqQ==
+displayName: Line COMBATTED
+co: FRANCE
+givenName: Line
+agricole: Non
+ressource: Non
+salarieCA: Non
+titre: Pas de titre
+typeTiers: Individu
+l: PLOUEZOC H
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+profil: OPUS-CRA234-PROFIL1
+profil: Ad_0000023_R53-CRA234-0000e50001abf50e
+profil: OPUS-CRA234-P_SUIVI_AGRO
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XR9B8MC,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6XR9B8MC
+userPassword:: e1NTSEF9T0JMU21PNXZVVWZXTVlwcUdzZFJSWTlWWS9xbmpMRlA=
+postalAddress: M. FAYOU PAUL
+adresse2: UMANIS
+personalTitle: M
+postalCode: 75000
+eluCA: Non
+mail: 747419f718010242496679a9f7053ad3@yopmail.com
+envoiMailpwd: TRUE
+login: fayouxp75r
+login: 6XR9B8MC
+employeeNumber: fayoup75r
+sn: PRECISION
+cn: FAYOU Paul
+displayName: Maïssa PRECISION
+co: FRANCE
+givenName: Maïssa
+agricole: Non
+ressource: Non
+salarieCA: Non
+titre: Pas de titre
+typeTiers: Individu
+l: PARIS
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+profil: Ad_0000023_R53-CRA234-0000e50001a2a886
+profil: OPUS-CRA234-PROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XR9HQP1,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6XR9HQP1
+alimentationGrc: TRUE
+actif: FALSE
+postalAddress: MR ABALAIN JEAN-YVES
+personalTitle: M
+postalCode: 29410
+DateOfBirth: 19520305
+eluCA: Non
+mail: bc9766307506c458ab0c6dc4210eea79@yopmail.com
+envoiMailpwd: TRUE
+login: jabalain
+login: 6XR9HQP1
+sn: GAME
+cn: ABALAIN Jean-Yves
+displayName: Emilie GAME
+co: FRANCE
+givenName: Emilie
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 98 68 37 82
+titre: Pas de titre
+typeTiers: Individu
+l: GUICLAN
+visibilityAddressBooks: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+
+dn: uid=6XYA3JRO,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6XYA3JRO
+postalAddress: AGRILEC
+postalCode: 22350
+eluCA: Non
+mail: 2238a9b14db9b6bb01307d2376c8359f@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 96 83 87 25
+login: agrilec_perso
+login: 6XYA3JRO
+sn: RAIL
+cn: AGRILEC
+displayName: Elisa RAIL
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 347611212
+company: AGRILEC
+telephoneNumber: +33 (0)2 96 83 92 81
+titre: Pas de titre
+typeTiers: Entreprise
+l: CAULNES
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+alimentationGrc: TRUE
+actif: FALSE
+
+dn: uid=6XYAEKPT,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6XYAEKPT
+postalAddress: EARL ALAIN CARFANTAN
+postalCode: 22550
+eluCA: Non
+mail: 7025bd6d31a488824bb9821072e2c134@yopmail.com
+envoiMailpwd: TRUE
+login: 494760986
+login: 6XYAEKPT
+sn: FUNGUS
+cn: EARL ALAIN CARFANTAN
+displayName: Jimmy FUNGUS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 391362589
+company: EARL ALAIN CARFANTAN
+telephoneNumber: +33 (0)2 96 31 53 27
+titre: Pas de titre
+typeTiers: Entreprise
+l: HENANBIHEN
+visibilityAddressBooks: TRUE
+profil: Ad_0000021_R53-CRA234-0000e500019b5acb
+profil: OPENVPN-CRA234-USERMP
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XYAW1EC,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: ELEVAGE IPARRALDE
+postalCode: 22160
+eluCA: Non
+mail: 57bf37b95fc0b6ffaafe45c70e2904ef@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XYAW1EC
+login: elevageipa
+login: 6XYAW1EC
+sn: PROBABLY
+cn: ELEVAGE IPARRALDE
+displayName: Ysé PROBABLY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +34 033 34 34 34
+titre: Pas de titre
+typeTiers: Entreprise
+l: CALLAC
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+company: ELEVAGE IPARRALDE
+proprietaireUid: CRA001
+profil: OCTAGRI-CRA001-BIDON
+profil: OCTAGRI-CRA234-ACTEUR
+profil: Ad_0000023_R53-CRA001-0000e50001abf50e
+profil: Ad_0000023_R53-CRA001-0000e50001a3ff8f
+profil: Ad_0000020_R53-CRA001-0000e500019b5bfe
+alimentationGrc: TRUE
+actif: TRUE
+
+dn: uid=6XYCXTPY,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: 3D ACTIONS
+postalCode: 22100
+eluCA: Non
+mail: 4e0be9ec3912e020eff47b4fdb016f9e@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XYCXTPY
+login: 489152587
+login: 6XYCXTPY
+sn: HEMUS
+cn: 3D ACTIONS
+displayName: Ethan HEMUS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 489152587
+titre: Pas de titre
+typeTiers: Entreprise
+l: LANVALLAY
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+company: 3D ACTIONS
+profil: Ad_0000021_R53-CRA234-0000e500019b5acb
+profil: OPENVPN-CRA234-USERMP
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XYIUU40,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6XYIUU40
+alimentationGrc: TRUE
+actif: FALSE
+postalAddress: M PACE CHRISTIAN
+personalTitle: M
+postalCode: 22250
+DateOfBirth: 19611226
+eluCA: Non
+mail: f5b089dc77593feea1e3f27f1d0c3698@yopmail.com
+envoiMailpwd: TRUE
+login: cpace
+login: 6XYIUU40
+employeeNumber: cpace
+sn: AESCHYLUS
+cn: PACE Christian
+displayName: Florian AESCHYLUS
+co: FRANCE
+givenName: Florian
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 96 83 14 39
+typeTiers: Individu
+l: PLUMAUGAT
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+
+dn: uid=6XYK3JP7,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MM LE BERRIGAUD ANITA
+personalTitle: MME
+postalCode: 56110
+DateOfBirth: 19620131
+eluCA: Non
+mail: 1496e87ff51f079d98eef788744cf622@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XYK3JP7
+login: aleberrigau
+login: 6XYK3JP7
+sn: STROKED
+cn: LE BERRIGAUD Anita
+displayName: Remi STROKED
+co: FRANCE
+givenName: Remi
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 23 48 25
+typeTiers: Individu
+l: GOURIN
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XYK3JQ7,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MM MATHIEU ISABELLE
+personalTitle: MME
+postalCode: 56420
+DateOfBirth: 19650107
+eluCA: Non
+mail: e2e29addf62bc671c4db96f4125e1ecc@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XYK3JQ7
+login: imathieu
+login: 6XYK3JQ7
+mobile: +33 (0)6 50 72 16 79
+sn: MACEDON
+cn: MATHIEU Isabelle
+displayName: Moussa MACEDON
+co: FRANCE
+givenName: Moussa
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 73 06 95
+typeTiers: Individu
+l: CRUGUEL
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XYK3JQN,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MM GILLET NELLY
+personalTitle: MME
+postalCode: 56690
+DateOfBirth: 19600404
+eluCA: Non
+mail: 851eae81a447c244d9d8e362af86086f@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XYK3JQN
+login: ngillet
+login: 6XYK3JQN
+mobile: +33 (0)6 37 88 22 67
+sn: SWAMPY
+cn: GILLET Nelly
+displayName: Paloma SWAMPY
+co: FRANCE
+givenName: Paloma
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 59 92 34
+typeTiers: Individu
+l: LANDEVANT
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XYK3JQY,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR VAILLANT JEAN
+personalTitle: M
+postalCode: 56460
+DateOfBirth: 19530616
+eluCA: Non
+mail: 6a8a55f3046460780a0587efa56d8730@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XYK3JQY
+login: jvaillant
+login: 6XYK3JQY
+sn: CENTIGRADE
+cn: VAILLANT Jean
+displayName: Youssouf CENTIGRADE
+co: FRANCE
+givenName: Youssouf
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 74 80 44
+typeTiers: Individu
+l: LIZIO
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XYK3JSM,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MM FAUCHEUX FRANCOISE
+personalTitle: MME
+postalCode: 56800
+DateOfBirth: 19640702
+eluCA: Non
+mail: f25413421941c9207ceb0a0a3bac6ed9@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)6 52 36 25 60
+uid: 6XYK3JSM
+login: ffaucheux
+login: 6XYK3JSM
+sn: COSTUMES
+cn:: RkFVQ0hFVVggRnJhbsOnb2lzZQ==
+displayName: Fantine COSTUMES
+co: FRANCE
+givenName: Fantine
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 93 12 61
+typeTiers: Individu
+l: CAMPENEAC
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XZZ2WCA,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: EARL LOUZAOUEN
+postalCode: 29810
+eluCA: Non
+mail: 182240684b582146f2c30f5e532caf15@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XZZ2WCA
+login: 379380801
+login: 6XZZ2WCA
+sn: WALDO
+cn: EARL LOUZAOUEN
+displayName: Diana WALDO
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 379380801
+telephoneNumber: +33 (0)2 98 89 31 44
+typeTiers: Entreprise
+l: PLOUMOGUER
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: EARL LOUZAOUEN
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XZZ2WCZ,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MESSIEURS BRENEOL JEAN ET JEAN LUC
+postalCode: 29770
+eluCA: Non
+mail: d4e8b9176a97b3216b9447f81666cd5f@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XZZ2WCZ
+login: 398398008
+login: 6XZZ2WCZ
+sn: ADDITIONALLY
+cn: EARL BRENEOL
+displayName: Elisa ADDITIONALLY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 398398008
+telephoneNumber: +33 (0)2 98 70 10 73
+typeTiers: Entreprise
+l: GOULIEN
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: EARL BRENEOL
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XZZ2WDF,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: SCEA CONQ
+postalCode: 29290
+eluCA: Non
+mail: 7526a2d27a4c7b7967a1203c2a004089@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XZZ2WDF
+login: 417880358
+login: 6XZZ2WDF
+mobile: +33 (0)6 08 51 35 20
+sn: ALLOTTED
+cn: SCEA CONQ
+displayName: Marianne ALLOTTED
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 417880358
+telephoneNumber: +33 (0)2 98 84 24 59
+typeTiers: Entreprise
+l: LANRIVOARE
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: SCEA CONQ
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XZZ2WDP,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: GAEC AGNEW
+postalCode: 29100
+eluCA: Non
+mail: d91306f411e7ae046bb8917ea83ac419@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XZZ2WDP
+login: 401008735
+login: 6XZZ2WDP
+mobile: +33 (0)6 87 03 18 91
+sn: CONTRARY
+cn: EARL AGNEW
+displayName: Hayden CONTRARY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 401008735
+telephoneNumber: +33 (0)2 98 74 04 13
+typeTiers: Entreprise
+l: POULLAN SUR MER
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: EARL AGNEW
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XZZ2WGT,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: EARL LAZ HOLSTEIN
+postalCode: 29310
+eluCA: Non
+mail: c33f235e895c1b19f4b17027d1a7b75f@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XZZ2WGT
+login: 335157996
+login: 6XZZ2WGT
+mobile: +33 (0)6 70 34 82 16
+sn: INTERNIST
+cn: EARL LAZ HOLSTEIN
+displayName: Nael INTERNIST
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 335157996
+telephoneNumber: +33 (0)2 98 06 33 18
+typeTiers: Entreprise
+l: LOCUNOLE
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: EARL LAZ HOLSTEIN
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XZZ2WO2,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: GAEC DE KERGUYOMARC H
+postalCode: 29640
+eluCA: Non
+mail: 6e1cc3f1d3b85e3a79b08bf6e41ea13a@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XZZ2WO2
+login: 790770473
+login: 6XZZ2WO2
+mobile: +33 (0)6 16 97 44 20
+sn: PARROTS
+cn: GAEC DE KERGUYOMARC H
+displayName: Melvin PARROTS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 790770473
+telephoneNumber: +33 (0)2 98 24 15 53
+typeTiers: Entreprise
+l: PLOUGONVEN
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: GAEC DE KERGUYOMARC H
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XZZ2XAB,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: EARL L HOSTIS
+postalCode: 29810
+eluCA: Non
+mail: 1b24b9c5891ce0c4512c7fb19fa51d62@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XZZ2XAB
+login: 344378419
+login: 6XZZ2XAB
+mobile: +33 (0)6 37 82 28 70
+sn: OVERBEARING
+cn: EARL L HOSTIS
+displayName: Samba OVERBEARING
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 344378419
+telephoneNumber: +33 (0)2 98 04 32 61
+typeTiers: Entreprise
+l: BRELES
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: EARL L HOSTIS
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XZZ2XAM,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: EARL LE COUEDIC
+postalCode: 29100
+eluCA: Non
+mail: 7a71e899d2069b766e51ca7b696328b9@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XZZ2XAM
+login: 388461832
+login: 6XZZ2XAM
+sn: HIDES
+cn: EARL LE COUEDIC
+displayName: Camille HIDES
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 388461832
+telephoneNumber: +33 (0)2 98 74 61 44
+typeTiers: Entreprise
+l: POULDERGAT
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: EARL LE COUEDIC
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XZZ2XBI,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: CLAQUIN YVES
+postalCode: 29790
+eluCA: Non
+mail: a5ad8206745151efda7bade7e854b493@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XZZ2XBI
+login: 348187865
+login: 6XZZ2XBI
+mobile: +33 (0)6 12 93 60 76
+sn: ENLARGE
+cn: CLAQUIN YVES
+displayName: Nolan ENLARGE
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 348187865
+telephoneNumber: +33 (0)2 98 70 41 63
+typeTiers: Entreprise
+l: BEUZEC CAP SIZUN
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: CLAQUIN YVES
+proprietaireUid: CRA233
+profil: OPUS-CRA234-PROFIL10
+profil: EXTRANET_CRA53-REG34-pROFIL1
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+
+dn: uid=6XZZ2XE7,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: GAEC DE COSMANER NEVEZ
+postalCode: 29720
+eluCA: Non
+mail: 099e5efb59ac194a1be018a856bca595@yopmail.com
+envoiMailpwd: TRUE
+uid: 6XZZ2XE7
+login: 322729658
+login: 6XZZ2XE7
+mobile: +33 (0)6 60 87 77 52
+sn: CODES
+cn: GAEC DE COSMANER NEVEZ
+displayName: Bosco CODES
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 322729658
+telephoneNumber: +33 (0)2 98 87 77 52
+typeTiers: Entreprise
+l: PLONEOUR LANVERN
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: GAEC DE COSMANER NEVEZ
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6XZZ2XFK,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: GAEC DU TRISKEL
+postalCode: 29790
+eluCA: Non
+mail: 4b0646acbd1fffe837985bbfa2286dc5@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 98 70 58 00
+uid: 6XZZ2XFK
+login: 432074888
+login: 6XZZ2XFK
+sn: MONTREAL
+cn: GAEC DU TRISKEL
+displayName: Manelle MONTREAL
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 432074888
+telephoneNumber: +33 (0)2 98 70 58 00
+typeTiers: Entreprise
+l: BEUZEC CAP SIZUN
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+company: GAEC DU TRISKEL
+profil: OPUS-CRA234-PROFIL10
+profil: Ad_0000023_R53-CRA234-0000e50001a3ff8f
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6Y0071CX,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: BERNABE Catherine
+postalCode: 22400
+eluCA: Non
+mail: dd527dd2a5f7341947a22a5c6dbbcb66@yopmail.com
+mailAlias: toto@wanadoo.fr
+mailAlias: tata@free.fr
+envoiMailpwd: TRUE
+uid: 6Y0071CX
+login: 420409138
+login: 6Y0071CX
+mobile: +33 (0)6 78 35 45 16
+sn: HIROSHIMA
+cn: BERNABE CATHERINE
+displayName: Mayeul HIROSHIMA
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 420409138
+typeTiers: Entreprise
+l: HENANSAL
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+company: BERNABE CATHERINE
+profil: Ad_0000023_R53-CRA234-0000e50001a2a886
+profil: OPUS-CRA234-PROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6ZB36JWN,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6ZB36JWN
+postalAddress: ABBAYE SAINT MICHEL DE KERGONAN
+postalCode: 56720
+eluCA: Non
+mail: a4a0f8d1d7ee4cfc9f10f32f1fa35fdf@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 97 52 37 66
+login: 777867730
+login: 6ZB36JWN
+sn: LYING
+cn: ABBAYE SAINT MICHEL DE KERGONAN
+displayName: Maya LYING
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 777867730
+telephoneNumber: +33 (0)2 97 52 32 14
+typeTiers: Entreprise
+labeledURI: www.google.fr
+l: PLOUHARNEL
+visibilityAddressBooks: TRUE
+company: Environ. 20 PFI
+profil: OPUS-REG34-MESPARCELLES
+profil: OPUS-REG34-EXTRANET
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=6ZB5ZGZT,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: ABC SAS / LE QUOTIDIEN LES MARCHES
+physicalDeliveryOfficeName: CEDEX 14
+postalCode: 75683
+eluCA: Non
+mail: 72f5712016b60bf1ba1d2f073bcb5ce6@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)1 42 74 20 63
+uid: 6ZB5ZGZT
+login: abcsas/leq
+login: 6ZB5ZGZT
+sn: APPLEJACK
+cn: ABC SAS / LE QUOTIDIEN LES MARCHES
+displayName: Amalia APPLEJACK
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)1 42 74 28 00
+typeTiers: Entreprise
+l: PARIS 14
+visibilityAddressBooks: TRUE
+identiteChambre: CA22
+company: ABC SAS / LE QUOTIDIEN LES MARCHES
+profil: OPUS-REG34-EXTRANET
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+
+dn: uid=6ZCN5GRC,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6ZCN5GRC
+alimentationGrc: TRUE
+actif: TRUE
+postalCode: 75000
+eluCA: Non
+mail: 1fe37da7c4f50362c15f3cd26c5312b1@yopmail.com
+mailAlias: mesparcelles@occitanie.chambagri.fr
+mailAlias: mesparcelles_lrmp@lrmp.chambagri.fr
+envoiMailpwd: TRUE
+login: formation1
+login: 6ZCN5GRC
+sn: RHETORIC
+cn: CA22_STATGIAIRE MES PARCELLES
+displayName: Antony RHETORIC
+co: FRANCE
+profil: OPUS-CDA22-CDA22-PRFIL1
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: PARIS
+visibilityAddressBooks: FALSE
+proprietaireUid: CRA234
+identiteChambre: CA22
+
+dn: uid=6ZNS18YO,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: 23 EME HOMME
+postalCode: 53200
+eluCA: Non
+mail: e5a65f5d189686421a2e6310ea514f8c@yopmail.com
+envoiMailpwd: TRUE
+uid: 6ZNS18YO
+login: 504978370
+login: 6ZNS18YO
+sn: CURTISS
+cn: 23 EME HOMME
+displayName: Alycia CURTISS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 504978370
+typeTiers: Entreprise
+l: CHATEAU GONTIER
+visibilityAddressBooks: TRUE
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+company: Environ. 20 PFI
+alimentationGrc: TRUE
+actif: FALSE
+proprietaireUid: OCT20
+
+dn: uid=6ZNYD3PS,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: 35 EXPRESS-METRAILLE
+physicalDeliveryOfficeName: CEDEX
+postalCode: 35514
+eluCA: Non
+mail: 47a04599bcc864a40d981a62e2dd93e2@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 99 26 46 99
+uid: 6ZNYD3PS
+login: 35expressm
+login: 6ZNYD3PS
+sn: SORRENTINE
+cn: 35 EXPRESS-METRAILLE
+displayName: Rania SORRENTINE
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 99 26 46 00
+typeTiers: Entreprise
+l: CESSON SEVIGNE
+visibilityAddressBooks: TRUE
+company: Environ. 20 PFI
+profil: OPUS-REG34-MESPARCELLES
+profil: OPUS-REG34-EXTRANET
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=6ZTPR6AP,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: GAEC DU SOLEIL LEVANT
+postalCode: 35140
+eluCA: Non
+mail: f569323eb6f7299673f64edfe92b2eaa@yopmail.com
+envoiMailpwd: TRUE
+uid: 6ZTPR6AP
+login: 423969492
+login: 6ZTPR6AP
+sn: DESCENDED
+cn: GAEC DU SOLEIL LEVANT
+displayName: Audrey DESCENDED
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 423969492
+telephoneNumber: +33 (0)2 99 97 66 10
+typeTiers: Entreprise
+l: ST GEORGES DE CHESNE
+visibilityAddressBooks: TRUE
+company: Environ. 20 PFI
+profil: OPUS-REG34-MESPARCELLES
+profil: OPUS-REG34-EXTRANET
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=6ZTPXVJP,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: AMALTEA - SAS
+postalCode: 56000
+eluCA: Non
+mail: 6cf8b261fa6440a9085885fc45ebdabc@yopmail.com
+envoiMailpwd: TRUE
+uid: 6ZTPXVJP
+login: 350566253
+login: 6ZTPXVJP
+sn: NUMBNESS
+cn: AMALTEA - SAS
+displayName: Alassane NUMBNESS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 350566253
+typeTiers: Entreprise
+l: VANNES
+visibilityAddressBooks: TRUE
+company: Environ. 20 PFI
+profil: OPUS-REG34-MESPARCELLES
+profil: OPUS-REG34-EXTRANET
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=6ZTQ3LVY,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6ZTQ3LVY
+postalAddress: ARMORIQUE SARL
+postalCode: 29260
+eluCA: Non
+mail: 7af0d94cb59be776dcd522a447d62d0e@yopmail.com
+envoiMailpwd: TRUE
+login: 382307718
+login: 6ZTQ3LVY
+sn: REPARTEE
+cn: ARMORIQUE SARL
+displayName: Yannis REPARTEE
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 382307718
+typeTiers: Entreprise
+l: LESNEVEN
+visibilityAddressBooks: TRUE
+company: Environ. 20 PFI
+profil: OPUS-REG34-MESPARCELLES
+profil: OPUS-REG34-EXTRANET
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=6ZTQMMY2,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 6ZTQMMY2
+postalAddress: MESPARCELLES1
+postalCode: 12000
+eluCA: Non
+mail: 729e2a40171ac5ab6d353ce704d95f23@yopmail.com
+envoiMailpwd: TRUE
+login: formation111
+login: 6ZTQMMY2
+sn: COZY
+cn: MESPARCELLES1
+displayName: Luce COZY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: RODEZ
+visibilityAddressBooks: TRUE
+profil: EXTRANET_CRA53-REG34-pROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=abgrallo22d,ou=externes,o=tiers
+objectClass: top
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: comptesca
+objectClass: person
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: abgrallo22d
+userPassword:: e1NIQX15MFNwcDRlWVlzcnVhRUdsQ24yS0xQREl3K2c9
+postalAddress: M ABGRALL OLIVIER
+adresse2: CERFRANCE COTES D ARMOR
+physicalDeliveryOfficeName: CEDEX
+personalTitle: M
+postalCode: 22195
+eluCA: Non
+mail: 310580273d857bb38524eb7215571a76@yopmail.com
+envoiMailpwd: TRUE
+login: abgrallo22d
+sn: IMAGINE
+cn: ABGRALL Olivier
+displayName: Mendel IMAGINE
+co: FRANCE
+givenName: Mendel
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: PLERIN
+visibilityAddressBooks: TRUE
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=arotm22d,ou=externes,o=tiers
+objectClass: top
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: comptesca
+objectClass: person
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: arotm22d
+userPassword:: e1NIQX15MFNwcDRlWVlzcnVhRUdsQ24yS0xQREl3K2c9
+postalAddress: MME AROT MICHELLE
+personalTitle: MME
+postalCode: 22950
+DateOfBirth: 19480225
+eluCA: Non
+mail: 1502a39ce964b5ea9445532e2ab29e98@yopmail.com
+envoiMailpwd: TRUE
+login: arotm22d
+sn: DEFECTIVE
+cn: AROT Michelle
+displayName: Mathys DEFECTIVE
+co: FRANCE
+givenName: Mathys
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: TREGUEUX
+visibilityAddressBooks: TRUE
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=114094,ou=externes,o=tiers
+objectClass: top
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: comptesca
+objectClass: person
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 114094
+userPassword:: e1NIQX15MFNwcDRlWVlzcnVhRUdsQ24yS0xQREl3K2c9
+postalAddress: MME KOFFI DELPHINE
+adresse2: CHAMBRE D AGRICULTURE DU MORBIHAN
+personalTitle: MME
+postalCode: 56801
+eluCA: Non
+mail: 76f3b218757f4fc1a14e2cee0b2580ae@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 97 74 14 55
+login: 114094
+employeeNumber: 114094
+mobile: +33 (0)6 32 85 35 46
+sn: DECEITFUL
+cn: KOFFI Delphine
+displayName: Lilas DECEITFUL
+co: FRANCE
+givenName: Lilas
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 74 17 08
+typeTiers: Individu
+l: PLOERMEL
+visibilityAddressBooks: TRUE
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=70RPI15N,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress: MR ABADIE CLAUDE
+adresse2: MAIRIE
+personalTitle: M
+postalCode: 56390
+eluCA: Non
+mail: 321c458fb959860c6186b9bf7e042184@yopmail.com
+envoiMailpwd: TRUE
+uid: 70RPI15N
+login: toto.titi
+sn: DRIZZLING
+cn: ABADIE Claude
+displayName: Olga DRIZZLING
+co: FRANCE
+givenName: Olga
+agricole: Non
+ressource: Non
+salarieCA: Non
+titre: Monsieur
+typeTiers: Individu
+l: LOCMARIA GRAND CHAMP
+visibilityAddressBooks: TRUE
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=audebraf86r,ou=externes,o=tiers
+uid: audebraf86r
+objectClass: top
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: person
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+manager: cn=admin_informatique,ou=CRA75,ou=adminldap,ou=groupe,ou=administrati
+ on,o=tiers
+mailRoutingAddress: audebraf86r@na.22.sirca.info
+postalAddress:: TU1FIERFTFRIRUlMIE1BR0FMSUUKCgogICBMRSBIQVVUIFFVQVJUSUVSCgoyMj
+ QwMCBMQU5ERUhFTg==
+personalTitle: MME
+postalCode: 22400
+DateOfBirth: 19740329
+eluCA: Non
+mail: 9a2d6824179d5a73bad7755d3e231181@yopmail.com
+envoiMailpwd: TRUE
+login: audebraf86r
+mobile: +33 (0)6 88 16 09 55
+sn: INSPECTION
+cn: DELTHEIL Magalie
+displayName: Farah INSPECTION
+co: FRANCE
+givenName: Farah
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: LANDEHEN
+visibilityAddressBooks: TRUE
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=71NGURPS,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: RUFSTCBBIExBRVpIIEJSRUlaSAoKCiAgIExFU1NPVU5PQyBWUkFTCgoyOTgzMC
+ BQTE9VUklO
+postalCode: 29830
+eluCA: Non
+mail: ceae7cebfa73346bde3cc76aa1f11fed@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 98 04 30 56
+uid: 71NGURPS
+login: 333592145
+mobile: +33 (0)6 62 83 50 25
+sn: WHIMPERING
+cn: EARL A LAEZH BREIZH
+displayName: Eloi WHIMPERING
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 333592145
+telephoneNumber: +33 (0)2 98 04 35 91
+typeTiers: Entreprise
+l: PLOURIN
+visibilityAddressBooks: TRUE
+company: EARL A LAEZH BREIZH
+profil: OPUS-REG34-EXTRANET
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=71NGW9JB,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: 71NGW9JB
+postalAddress:: R0FFQyBBQkFMTEVBIFBFUkUgRVQgRklMUwoKCiAgIEtFUlZFVUxFVUdBTlQKCj
+ I5MjYwIFBMT1VJREVS
+postalCode: 29260
+eluCA: Non
+mail: f9d7ea75725a8585fbf478bdf170e1b3@yopmail.com
+envoiMailpwd: TRUE
+login: 329475362
+sn: FLOODING
+cn: GAEC ABALLEA PERE ET FILS
+displayName: Hugues FLOODING
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 329475362
+titre: Monsieur
+typeTiers: Entreprise
+l: PLOUIDER
+visibilityAddressBooks: TRUE
+company: GAEC ABALLEA PERE ET FILS
+profil: OPUS-REG34-EXTRANET
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=P72LI4EVD,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: P72LI4EVD
+postalAddress:: U0FSTCBNQUdFTUEgTEVTIDMgU09MRUlMUwoKCiAgIFpBIERFIFRSRUhVSU5FQw
+ oKNTY4OTAgUExFU0NPUA==
+postalCode: 56890
+eluCA: Non
+mail: 34221c273ae1777abb41161eeb0f2e6c@yopmail.com
+envoiMailpwd: TRUE
+login: sarlmagema
+sn: HIGHS
+cn: SARL MAGEMA LES 3 SOLEILS
+displayName: Clelia HIGHS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Entreprise
+l: PLESCOP
+visibilityAddressBooks: TRUE
+company: SARL MAGEMA LES 3 SOLEILS
+profil: EXTRANET_CRA53-REG34-pROFIL1
+profil: OPUS-REG34-EXTRANET
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=P74CNYASW,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: QkVQQ08gRlJBTkNFIFNBUwoKWkkgTEEgUExBSU5FCiAgQUxMRUUgREUgQklHT1
+ JSRQpCUCA4MDA0MQo0NzkwMSBBR0VO
+postalCode: 47901
+eluCA: Non
+mail: e8612d437e0ead12c0cbbbc6e52d58bd@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)5 53 68 03 72
+uid: P74CNYASW
+login: 344539283
+sn: SYNONYMY
+cn: BEPCO FRANCE SAS
+displayName: Shana SYNONYMY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 344539283
+telephoneNumber: +33 (0)5 53 96 31 25
+typeTiers: Entreprise
+l: AGEN
+visibilityAddressBooks: TRUE
+company: BEPCO FRANCE SAS
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+alimentationGrc: TRUE
+actif: FALSE
+
+dn: uid=N74CRHLFV,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: QUJBRElFIEJFUk5BUkQKCgoyNSAgUlVFIERFUyBBUwoKMzM2MDAgUEVTU0FD
+personalTitle: M
+postalCode: 33600
+DateOfBirth: 19551222
+eluCA: Non
+mail: 03251e44fde2303f22b87baf649fd31e@yopmail.com
+envoiMailpwd: TRUE
+uid: N74CRHLFV
+login: baba
+sn: METERS
+cn: ABADIE Bernard
+displayName: Khadija METERS
+co: FRANCE
+givenName: Khadija
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: PESSAC
+visibilityAddressBooks: TRUE
+profil: OPERAPORTAIL-REG75-ACTEUR
+actif: TRUE
+company:: Q1JBIE5vdXZlbGxlIEFxdWl0YWluZSBnZXN0aW9uIGlkZW50aXTDqQ==
+codeCompany: CRA275
+codeVisibilite: REG75
+quotamail: 525Mo
+alimentationGrc: FALSE
+
+dn: uid=O74CS6AKZ,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TS4gVE9UTyBNQVJDCgoKUlVFIERVIFBBUkMgICAKCjI5MDAwIFFVSU1QRVI=
+personalTitle: M
+postalCode: 29000
+eluCA: Non
+mail: 2f724cdfa1baeab327111670018c0943@yopmail.com
+envoiMailpwd: TRUE
+uid: O74CS6AKZ
+login: marctoto
+sn: DUD
+cn: TOTO Marc
+displayName: Dany DUD
+co: FRANCE
+givenName: Dany
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: QUIMPER
+visibilityAddressBooks: TRUE
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=I74CSAMFJ,ou=externes,o=tiers
+alimentationGrc: TRUE
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+actif: FALSE
+postalAddress:: TU9OU0lFVVIgQUJBTEFJTiBHSUxCRVJUCgoKICAgTEUgTUVOSElSCgoyOTgwMC
+ BUUkVNQU9VRVpBTg==
+personalTitle: M
+postalCode: 29800
+DateOfBirth: 19640125
+eluCA: Non
+mail: 89e2907baf461fcb4a3b21d69ae1bc41@yopmail.com
+envoiMailpwd: TRUE
+uid: I74CSAMFJ
+login: gabalain
+mobile: +33 (0)6 84 03 37 91
+sn: 1665
+cn: ABALAIN Gilbert
+displayName: Ziad 1665
+co: FRANCE
+givenName: Ziad
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 98 20 93 06
+typeTiers: Individu
+l: TREMAOUEZAN
+visibilityAddressBooks: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=B74DODUVD,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: QUNBREVNSUUgRCdBR1JJQ1VMVFVSRSBERSBGUkFOQ0UKQUdSSUNVTFRVUkUgIE
+ FMSU1FTlRBVElPTiAgRU5WSVJPTk5FTUUKCjE4ICBSVUUgREUgQkVMTEVDSEFTU0UKCjc1MDA3IFB
+ BUklT
+adresse2: AGRICULTURE  ALIMENTATION  ENVIRONNEME
+postalCode: 75007
+eluCA: Non
+mail: d8d91b0e15884674470e7157cf93566f@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)1 45 55 09 78
+uid: B74DODUVD
+login: 304396039
+sn: UNERRINGLY
+cn: ACADEMIE D'AGRICULTURE DE FRANCE
+displayName: Tomas UNERRINGLY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 304396039
+telephoneNumber: +33 (0)1 47 05 10 37
+typeTiers: Entreprise
+labeledURI: www.academie-agriculture.fr
+l: PARIS
+visibilityAddressBooks: TRUE
+company: ACADEMIE D'AGRICULTURE DE FRANCE
+profil: OPENVPN-CDA22-USER_CDA022
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=R74DOZNWY,ou=externes,o=tiers
+alimentationGrc: TRUE
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+actif: FALSE
+postalAddress:: QUNDVUVJTCBSVVJBTCBGSU5JU1RFUkUKCgo1ICBBTExFRSBTVUxMWQoKMjkwMD
+ AgUVVJTVBFUg==
+postalCode: 29000
+eluCA: Non
+mail: 6b570789c5796ae361dfed41df635f21@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 98 64 20 29
+uid: R74DOZNWY
+login: 408636629
+sn: MONOPOLIES
+cn: ACCUEIL RURAL DU FINISTERE
+displayName: Elyas MONOPOLIES
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 408636629
+telephoneNumber: +33 (0)2 98 64 20 20
+typeTiers: Entreprise
+l: QUIMPER
+visibilityAddressBooks: TRUE
+company: ACCUEIL RURAL DU FINISTERE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=B74DTCY09,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: B74DTCY09
+alimentationGrc: TRUE
+actif: FALSE
+postalAddress:: QUJBTEFJTiBBTlRPSU5FVFRFCgoKICAgUEVOIEFSIFJPWgoKMjk4MDAgVFJFRk
+ xFVkVORVo=
+personalTitle: MME
+postalCode: 29800
+eluCA: Non
+mail: f3c1abfe5d5c253d639b6a87663eff81@yopmail.com
+envoiMailpwd: TRUE
+login: aabalain
+sn: INJURING
+cn: ABALAIN Antoinette
+displayName: Bertille INJURING
+co: FRANCE
+givenName: Bertille
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 98 25 17 50
+typeTiers: Individu
+l: TREFLEVENEZ
+visibilityAddressBooks: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=chomeauc64d,ou=externes,o=tiers
+uid: chomeauc64d
+objectClass: top
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: person
+objectClass: comptesca
+objectClass: shadowAccount
+objectClass: mailAccount
+objectClass: extensibleObject
+manager: cn=admin_informatique,ou=CDA64,ou=adminldap,ou=groupe,ou=administrati
+ on,o=tiers
+postalAddress:: TSBDSE9NRUFVIENMRU1FTlQKCgoxMjQgIEJPVUxFVkFSRCBUT1VSQVNTRQoKNj
+ QwMDAgUEFV
+personalTitle: M
+postalCode: 64000
+eluCA: Non
+mail: 6edc0e5ac5264fed316c2a9a9985844b@yopmail.com
+mailAlias: collectiffermier64@gmail.com
+envoiMailpwd: TRUE
+login: chomeauc64d
+mobile: +33 (0)6 75 33 55 57
+sn: DRUMS
+cn: CHOMEAU Clement
+displayName: Hania DRUMS
+co: FRANCE
+givenName: Hania
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: PAU
+visibilityAddressBooks: TRUE
+profil: OPERAPORTAIL-REG75-ADMIN
+actif: TRUE
+company:: Q1JBIE5vdXZlbGxlIEFxdWl0YWluZSBnZXN0aW9uIGlkZW50aXTDqQ==
+codeCompany: CRA275
+codeVisibilite: REG75
+quotamail: 525Mo
+alimentationGrc: FALSE
+
+dn: uid=D74FAJJ46,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TVIgQ0FQRUxFIFBBU0NBTAoKCiAgIExBIENSQVVQSU5JRVJFCgozNTEzMCBMQS
+ BTRUxMRSBHVUVSQ0hBSVNF
+personalTitle: M
+postalCode: 35130
+DateOfBirth: 19650502
+eluCA: Non
+mail: 0d42a51d6d21ab7ccfaa655ec3816188@yopmail.com
+envoiMailpwd: TRUE
+uid: D74FAJJ46
+login: pcapele
+mobile: +33 (0)6 77 80 70 45
+sn: AFFINITY
+cn: CAPELE Pascal
+displayName: Clotilde AFFINITY
+co: FRANCE
+givenName: Clotilde
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: LA SELLE GUERCHAISE
+visibilityAddressBooks: TRUE
+profil: EXTRANET_CRA53-REG34-pROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=I74FAJJCC,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TVIgVkFMTEVFIFBBVFJJQ0sKCgogICBMQSBIT1VTU0FJUwoKMzU0NzAgQkFJTi
+ BERSBCUkVUQUdORQ==
+personalTitle: M
+postalCode: 35470
+DateOfBirth: 19571121
+eluCA: Non
+mail: 62314c1b92c07195b3b96e465a69a556@yopmail.com
+envoiMailpwd: TRUE
+uid: I74FAJJCC
+login: pvallee
+mobile: +33 (0)6 83 83 47 10
+sn: SCRIPTURES
+cn: VALLEE Patrick
+displayName: Alex SCRIPTURES
+co: FRANCE
+givenName: Alex
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: BAIN DE BRETAGNE
+visibilityAddressBooks: TRUE
+profil: EXTRANET_CRA53-REG34-pROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=R74FAJJBY,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TVIgTU9DSEVUIENIUklTVElBTgoKCiAgIExBIENIQU1QIEhFUlZFTElOCgozNT
+ UzMCBTRVJWT04gU1VSIFZJTEFJTkU=
+personalTitle: M
+postalCode: 35530
+DateOfBirth: 19650112
+eluCA: Non
+mail: a55cd639ffaaf005f0df36ce9898afaf@yopmail.com
+mailAlias: c.mochet@wanadoo.fr
+envoiMailpwd: TRUE
+uid: R74FAJJBY
+login: cmochet
+mobile: +33 (0)6 62 98 36 95
+sn: HOOD
+cn: MOCHET Christian
+displayName: Thelma HOOD
+co: FRANCE
+givenName: Thelma
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 99 00 27 44
+typeTiers: Individu
+l: SERVON SUR VILAINE
+visibilityAddressBooks: TRUE
+profil: EXTRANET_CRA53-REG34-pROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=D74FAJJUX,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TS4gQklFTk5BU1NJUyBEYXZpZAoKCjYgQklTIFJVRSBERSBNT05URVJGSUwKCj
+ M1NzUwIElGRkVORElD
+personalTitle: M
+postalCode: 35750
+DateOfBirth: 19860120
+eluCA: Non
+mail: 3af711c95e38843446eaaecae42e7fee@yopmail.com
+envoiMailpwd: TRUE
+uid: D74FAJJUX
+login: dbiennassis
+mobile: +33 (0)6 32 69 06 41
+sn: PICTURE
+cn: BIENNASSIS David
+displayName: Aubin PICTURE
+co: FRANCE
+givenName: Aubin
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: IFFENDIC
+visibilityAddressBooks: TRUE
+profil: EXTRANET_CRA53-REG34-pROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=D74FAJK1I,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TVIgQkVSVElOIFBBU0NBTAoKCiAgIExBIEJJQVJEQUlTCgozNTE0MCBWRU5ERU
+ w=
+personalTitle: M
+postalCode: 35140
+DateOfBirth: 19720820
+eluCA: Non
+mail: 790d3f138cfcfd473f1250fc054af684@yopmail.com
+envoiMailpwd: TRUE
+uid: D74FAJK1I
+login: pbertin
+mobile: +33 (0)6 14 80 05 86
+sn: LUMPED
+cn: BERTIN Pascal
+displayName: Lorenzo LUMPED
+co: FRANCE
+givenName: Lorenzo
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 99 97 53 55
+typeTiers: Individu
+l: VENDEL
+visibilityAddressBooks: TRUE
+profil: EXTRANET_CRA53-REG34-pROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=R74FAJK4H,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TS4gQ0hBVVBJVFJFIEVUSUVOTkUKCgogICBMRSBST0NIRVIgQklEQUlORQoKMz
+ U1MDAgU1QgTSBIRVJWRQ==
+personalTitle: M
+postalCode: 35500
+DateOfBirth: 19870507
+eluCA: Non
+mail: 097b9a42e80dc3d4c3999ff3ad70ab31@yopmail.com
+envoiMailpwd: TRUE
+uid: R74FAJK4H
+login: echaupitre
+mobile: +33 (0)6 85 69 56 68
+sn: ANYTHING
+cn: CHAUPITRE Etienne
+displayName: Cécile ANYTHING
+co: FRANCE
+givenName: Cécile
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 99 74 56 09
+typeTiers: Individu
+l: ST M HERVE
+visibilityAddressBooks: TRUE
+profil: EXTRANET_CRA53-REG34-pROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=H74FAJKAB,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TVIgTUFSQ0hBTkQgSkVBTi1QQVVMCgoKICAgTEEgUk9VU1NFTElFUkUKCjM1NT
+ MwIFNFUlZPTiBTVVIgVklMQUlORQ==
+personalTitle: M
+postalCode: 35530
+DateOfBirth: 19630928
+eluCA: Non
+mail: 401cd840cb54359138a2f0bd2814aeb4@yopmail.com
+envoiMailpwd: TRUE
+uid: H74FAJKAB
+login: jmarchand
+mobile: +33 (0)6 98 95 42 13
+sn: SERIES
+cn: MARCHAND Jean-Paul
+displayName: Farès SERIES
+co: FRANCE
+givenName: Farès
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 99 00 20 90
+typeTiers: Individu
+l: SERVON SUR VILAINE
+visibilityAddressBooks: TRUE
+profil: EXTRANET_CRA53-REG34-pROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=O74FAJKFT,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TVIgREFWSUQgRkFCUklDRQoKCiAgIExBIEJVWkFSREFJUwoKMzU1OTAgQ0xBWU
+ VT
+personalTitle: M
+postalCode: 35590
+DateOfBirth: 19841119
+eluCA: Non
+mail: c557fb46d1c3274cd4a29e5f869ee0cd@yopmail.com
+envoiMailpwd: TRUE
+uid: O74FAJKFT
+login: fdavid
+mobile: +33 (0)6 11 27 50 39
+sn: 1702
+cn: DAVID Fabrice
+displayName: Ilhan 1702
+co: FRANCE
+givenName: Ilhan
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: CLAYES
+visibilityAddressBooks: TRUE
+company: Environ. 20 PFI
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+alimentationGrc: TRUE
+actif: FALSE
+
+dn: uid=L74FAJKG6,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TVIgQkFSQk9UIEdVSUxMQVVNRQoKCiAgIExBIEZMRVVSSUFJUwoKMzUzNzAgRV
+ RSRUxMRVM=
+personalTitle: M
+postalCode: 35370
+DateOfBirth: 19810717
+eluCA: Non
+mail: be70711f5f6f045b347919122c1a6829@yopmail.com
+envoiMailpwd: TRUE
+uid: L74FAJKG6
+login: gbarbot
+mobile: +33 (0)6 64 48 17 02
+sn: DEVELOPMENTAL
+cn: BARBOT Guillaume
+displayName: Yacine DEVELOPMENTAL
+co: FRANCE
+givenName: Yacine
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: ETRELLES
+visibilityAddressBooks: TRUE
+profil: EXTRANET_CRA53-REG34-pROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=I74FAJKM5,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TVIgVEVYSUVSIFNFQkFTVElFTgoKCiAgIExBIEJPVURSQUlTCgozNTYzMCBTVC
+ BCUklFVUMgREVTIElGRlM=
+personalTitle: M
+postalCode: 35630
+DateOfBirth: 19720428
+eluCA: Non
+mail: 79d4d95920e81e559ddb16eef78724f2@yopmail.com
+envoiMailpwd: TRUE
+uid: I74FAJKM5
+login: stexier
+mobile: +33 (0)6 08 93 31 99
+sn: FORTHCOMING
+cn: TEXIER Sebastien
+displayName: Amina FORTHCOMING
+co: FRANCE
+givenName: Amina
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 99 68 01 87
+typeTiers: Individu
+l: ST BRIEUC DES IFFS
+visibilityAddressBooks: TRUE
+profil: EXTRANET_CRA53-REG34-pROFIL1
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=S74FAW6B4,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TU1FIEJFUk5BREVUVEUgUkVOQVVMVAoKCiAgIExFUyBNRUlMTEVSSUVTCgozNT
+ Q0MCBHVUlQRUw=
+personalTitle: MME
+postalCode: 35440
+DateOfBirth: 19720215
+eluCA: Non
+mail: e430e6a55e9e242d4b0891f264976804@yopmail.com
+envoiMailpwd: TRUE
+uid: S74FAW6B4
+login: brenault
+sn: COSMIC
+cn: RENAULT Bernadette
+displayName: Alyssa COSMIC
+co: FRANCE
+givenName: Alyssa
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: GUIPEL
+visibilityAddressBooks: TRUE
+company: Environ. 20 PFI
+identiteChambre: CRA53
+codeCompany: OCT20
+codeVisibilite: REG34
+alimentationGrc: TRUE
+actif: FALSE
+
+dn: uid=: IGJhcnRoZXNjMzNk,ou=externes,o=tiers
+uid:: IGJhcnRoZXNjMzNk
+objectClass: top
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: person
+objectClass: comptesca
+objectClass: shadowAccount
+objectClass: mailAccount
+objectClass: extensibleObject
+manager: cn=admin_informatique,ou=CDA33,ou=adminldap,ou=groupe,ou=administrati
+ on,o=tiers
+postalAddress:: TSBCQVJUSEVTIENIUklTVE9QSEUKCkFEQVIgREUgQ0FTVElMTE9OIC0gU1RFIE
+ ZPWQozNCAgQVZFTlVFIERFIFZFUkRVTgoKMzMyMjAgU1RFIEZPWSBMQSBHUkFOREU=
+personalTitle: M
+postalCode: 33220
+eluCA: Non
+mail: 77ac95b52975f7141d2b69b52bddd3f2@yopmail.com
+envoiMailpwd: TRUE
+login: barthesc33d
+mobile: +33 (0)6 15 28 86 58
+sn: INDIVIDUALIZED
+cn: BARTHES Christophe
+displayName: Lily INDIVIDUALIZED
+co: FRANCE
+givenName: Lily
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)5 57 46 00 74
+typeTiers: Individu
+l: STE FOY LA GRANDE
+visibilityAddressBooks: TRUE
+profil: OCTAGRI-REG75-ACTEUR
+alimentationGrc: TRUE
+actif: TRUE
+company: Chambre d'agriculture de la Gironde
+proprietaireUid: BUS275
+identiteChambre: D33
+codeCompany: CDA33
+codeVisibilite: REG75
+
+dn: uid=Y75FC5XIM,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: Y75FC5XIM
+postalAddress:: TVIgQUJBUk5PVSBKRUFOIFlWRVMKQ0FNRUFOIAoyOTg3MCBMQU5OSUxJUw==
+personalTitle: M
+postalCode: 29870
+DateOfBirth: 19670206
+eluCA: Non
+mail: 6d70f2b8bb68e529568f0080af601939@yopmail.com
+envoiMailpwd: TRUE
+login: jabarnou
+mobile: +33 (0)6 22 94 81 39
+sn: ASTONISHINGLY
+cn: ABARNOU Jean-Yves
+displayName: Myrtille ASTONISHINGLY
+co: FRANCE
+givenName: Myrtille
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)6 22 94 81 39
+typeTiers: Individu
+l: LANNILIS
+visibilityAddressBooks: TRUE
+profil: OPERACONNAISSANCES-REG34-
+profil: OPUS-REG34-
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=G75FCEVWN,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: G75FCEVWN
+postalAddress:: QUJSQVNTQVJUIEVSSUMKQ09FVCBFUiBCSUdPVCAKNTY1NDAgU1QgVFVHRFVBTA
+ ==
+postalCode: 56540
+eluCA: Non
+mail: e505899bb9e3122a72a61fecea604423@yopmail.com
+envoiMailpwd: TRUE
+login: 529290488
+mobile: +33 (0)6 81 14 81 13
+sn: FRONTIERS
+cn: ABRASSART ERIC
+displayName: Aliyah FRONTIERS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 529290488
+telephoneNumber: +33 (0)2 97 39 42 92
+typeTiers: Entreprise
+l: ST TUGDUAL
+visibilityAddressBooks: FALSE
+company: ABRASSART ERIC
+profil: OPUS-REG34-
+profil: OPUS-REG34-DOCUMENTATIONS
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=O75FCVMVH,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: RUFSTCBEVSBTT0xFSUwKTEEgQ1JPSVggRFUgUk9TRSAKNTY0ODAgU0lMRklBQw
+ ==
+postalCode: 56480
+eluCA: Non
+mail: eefcca1eb637dd63368ab62610c709c9@yopmail.com
+envoiMailpwd: TRUE
+uid: O75FCVMVH
+login: 483063590
+sn: WHITEMAN
+cn: EARL DU SOLEIL
+displayName: Théodora WHITEMAN
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 483063590
+telephoneNumber: +33 (0)2 97 27 63 06
+typeTiers: Entreprise
+l: SILFIAC
+visibilityAddressBooks: TRUE
+company: EARL DU SOLEIL
+profil: OPUS-REG34-
+profil: OPUS-REG34-DOCUMENTATIONS
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=V75FCY0K3,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: Q0hBTUJSRSBEJ0FHUklDVUxUVVJFIERFCkhBVVRFLUdBUk9OTkUKNjEgQUxMRU
+ UgREUgQlJJRU5ORSAKQlAgNzA0NAozMTA2OSBUT1VMT1VTRQ==
+adresse2: HAUTE-GARONNE
+physicalDeliveryOfficeName: CEDEX
+postalCode: 31069
+eluCA: Non
+mail: 902323abc83b05e80a006cd89833fbce@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)5 61 23 45 98
+uid: V75FCY0K3
+login: 183100049
+sn: INSULATOR
+cn: CHAMBRE D'AGRICULTURE DE LA HAUTE-GARONNE
+displayName: Elena INSULATOR
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 183100049
+telephoneNumber: +33 (0)5 61 10 42 50
+typeTiers: Entreprise
+l: TOULOUSE
+visibilityAddressBooks: TRUE
+company: CHAMBRE D'AGRICULTURE DE LA HAUTE-GARONNE
+profil: OPUS-REG34-
+profil: OPUS-REG34-DOCUMENTATIONS
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=Y75GQDBPE,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: Y75GQDBPE
+alimentationGrc: TRUE
+actif: FALSE
+eluCA: Non
+mail: 5255e7c5ac3d5869bb5f0a31f09f2499@yopmail.com
+envoiMailpwd: TRUE
+login: testdavid
+sn: CLAMPING
+cn: TEST DAVID2
+displayName: Edward CLAMPING
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+visibilityAddressBooks: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=C75HR2KRH,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: C75HR2KRH
+postalAddress:: QUJBTEFJTiBBTlRPSU5FVFRFClBFTiBBUiBST1ogCjI5ODAwIFRSRUZMRVZFTk
+ Va
+personalTitle: MME
+postalCode: 29800
+DateOfBirth: 19540319
+eluCA: Non
+mail: da648f6121d702a34180076f27f00e9e@yopmail.com
+envoiMailpwd: TRUE
+login: aabalain2
+sn: REID
+cn: ABALAIN Antoinette
+displayName: Eloïse REID
+co: FRANCE
+givenName: Eloïse
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 98 25 17 50
+typeTiers: Individu
+l: TREFLEVENEZ
+visibilityAddressBooks: TRUE
+profil: OPUS-REG34-
+profil: OPENVPN53-REG34-
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=C75HSP72U,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: C75HSP72U
+postalAddress:: TSBBQkFMQUlOIENZUklMCjIgUk9VVEUgREUgQ0hBVEVBVUxJTiAKMjkxOTAgTE
+ 9USEVZ
+personalTitle: M
+postalCode: 29190
+DateOfBirth: 19881017
+eluCA: Non
+mail: 617bbea613fee0cde672737f23fe0897@yopmail.com
+envoiMailpwd: TRUE
+login: cabalain12
+mobile: +33 (0)6 32 14 11 48
+sn: BELA
+cn: ABALAIN Cyril
+displayName: Cassandre BELA
+co: FRANCE
+givenName: Cassandre
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: LOTHEY
+visibilityAddressBooks: TRUE
+profil: OPERACOLLABORATIF-REG34-
+profil: OPERAPORTAIL-REG34-
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=N75HTNUH5,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: MVBSSU0gVE9VVAoxMCBSVUUgREUgUEVORVNDTFVTIAo1NjE5MCBNVVpJTExBQw
+ ==
+postalCode: 56190
+eluCA: Non
+mail: 16d7f2c5eefb6464c1450a94c9f92dfc@yopmail.com
+envoiMailpwd: TRUE
+uid: N75HTNUH5
+login: 798773370
+sn: MEEK
+cn: 1PRIM TOUT
+displayName: Fiona MEEK
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 798773370
+typeTiers: Entreprise
+l: MUZILLAC
+visibilityAddressBooks: TRUE
+company: 1PRIM TOUT
+profil: OPERAPORTAIL-REG34-
+profil: OPUS-REG34-DOCUMENTATIONS
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=H75HTZEW5,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+eluCA: Non
+mail: 370018e78f67e2b17b7d837955e70291@yopmail.com
+envoiMailpwd: TRUE
+uid: H75HTZEW5
+login: utilisateu
+sn: YOURS
+cn: UTILISATEUR GENERIQUE
+displayName: Tybalt YOURS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+visibilityAddressBooks: TRUE
+profil: OPERACONNAISSANCES-REG34-
+profil: OPUS-REG34-
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=A75HUEZJR,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: RkVSTUUgQVZJQ09MRSBERSBMQSBWQUxMRUUgR0FFQwpMQSBWQUxMRUUgCjIyND
+ AwIEhFTkFOU0FM
+postalCode: 22400
+eluCA: Non
+mail: 828c855a1b7a73d1ae8dc1a8ca3f0fec@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 96 34 07 54
+uid: A75HUEZJR
+login: 340275353
+sn: BEAUTIFULLY
+cn: FERME AVICOLE DE LA VALLEE GAEC
+displayName: Nine BEAUTIFULLY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 340275353
+telephoneNumber: +33 (0)2 96 34 07 54
+typeTiers: Entreprise
+l: HENANSAL
+visibilityAddressBooks: TRUE
+company: FERME AVICOLE DE LA VALLEE GAEC
+profil: OPUS-REG34-
+profil: OPUS-REG34-DOCUMENTATIONS
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=M75HUR14I,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TFlDRUUgQUdSSUNPTEUgS0VSTklMSUVOCktFUk5JTElFTiAKQlAgNzkKMjIyMD
+ AgUExPVUlTWQ==
+physicalDeliveryOfficeName: CEDEX
+postalCode: 22200
+eluCA: Non
+mail: 7bf3f2c53ff0be8f0b8c6d170d8580e0@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 96 44 07 38
+uid: M75HUR14I
+login: 192204709
+mobile: +33 (0)6 87 74 29 40
+sn: MAYO
+cn: LYCEE AGRICOLE KERNILIEN
+displayName: Elina MAYO
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 192204709
+telephoneNumber: +33 (0)2 96 40 67 50
+typeTiers: Entreprise
+l: PLOUISY
+visibilityAddressBooks: TRUE
+company: LYCEE AGRICOLE KERNILIEN
+profil: OPUS-REG34-
+profil: OPUS-REG34-DOCUMENTATIONS
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=Q75HV9LUP,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TS4gQk9VQ0hFUiBCQlIgMgo1NjAwMCBWQU5ORVM=
+personalTitle: M
+postalCode: 56000
+DateOfBirth: 20090909
+eluCA: Non
+mail: adc62b6a13e5b3d841ca2f3f66b43c92@yopmail.com
+envoiMailpwd: TRUE
+uid: Q75HV9LUP
+login: bboucher
+sn: PILES
+cn: BOUCHER Bbr-2
+displayName: Leonardo PILES
+co: FRANCE
+givenName: Leonardo
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)2 97 67 67 67
+typeTiers: Individu
+l: VANNES
+visibilityAddressBooks: TRUE
+profil: OPERAPORTAIL-REG34-
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=67013,ou=externes,o=tiers
+actif: TRUE
+agricole: Oui
+alimentationGrc: FALSE
+cn: CHEN Zhiqiang
+codeCompany: CRA44
+company: Chambre d'agriculture Grand Est
+displayName: Anthony RUGGED
+eluCA: Non
+mail: 917548667363376c22cf295103d02ec1@yopmail.com
+givenName: Anthony
+l: SCHILTIGHEIM
+login: chenz44r
+login: 1456915005
+objectClass: top
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: comptesca
+objectClass: person
+userPassword:: e1NIQX15MFNwcDRlWVlzcnVhRUdsQ24yS0xQREl3K2c9
+personalTitle: M
+postalCode: 67300
+profil: OPERAPORTAIL-CRA44
+profil: OPERACOLLABORATIF-CRA44
+profil: OPERACONNAISSANCES-CRA44
+proprietaireUid: CRA
+salarieCA: Non
+sn: RUGGED
+telephoneNumber: 0388191705
+uid: 67013
+siren: 123456
+
+dn: uid=A75S3AEJT,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TVIgQUJBTEFJTiBJVkFOCjI5MjAwIEJSRVNU
+personalTitle: M
+postalCode: 29200
+DateOfBirth: 19820818
+eluCA: Non
+mail: 4ee8b84261653869e011556a96828a57@yopmail.com
+envoiMailpwd: TRUE
+uid: A75S3AEJT
+login: iabalain
+sn: RARIFIED
+cn: ABALAIN Ivan
+displayName: Laurent RARIFIED
+co: FRANCE
+givenName: Laurent
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: BREST
+visibilityAddressBooks: TRUE
+profil: OPERAPORTAIL-REG34-
+alimentationGrc: TRUE
+actif: TRUE
+company: Environ. 20 PFI
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=T75S3XHF2,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: T75S3XHF2
+postalAddress:: MjMgRU1FIEhPTU1FCjIgUlVFIERFIExBIFJPQkVSREVSSUUgClpJIEJFTExJVE
+ 9VUk5FCjUzMjAwIENIQVRFQVUgR09OVElFUg==
+postalCode: 53200
+eluCA: Non
+mail: c2824fabe80f4ecdd9317724dee86eb9@yopmail.com
+mailAlias: luc1@wanadoo.fr
+envoiMailpwd: FALSE
+login: 5049783701
+sn: INSULATING
+cn: 23 EME HOMME
+displayName: Maëlyne INSULATING
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 504978370
+typeTiers: Entreprise
+l: CHATEAU GONTIER
+visibilityAddressBooks: TRUE
+company: 23 EME HOMME
+profil: OPERAPORTAIL-REG34-
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=v76dklqoh,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: v76dklqoh
+alimentationGrc: TRUE
+actif: FALSE
+postalAddress:: U1RBR0lBSVJFX0NSQTUzCjU2NDIwIEJJTExJTw==
+postalCode: 56420
+eluCA: Non
+mail: a3afb5a36b2f78f97f6694a2dfcfb625@yopmail.com
+mailAlias: toto@wanadoo.fr
+envoiMailpwd: TRUE
+login: STAGIAIRE_CRA53
+sn: CIRCLE
+cn: STAGIAIRE_CRA53
+displayName: Thaïs CIRCLE
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: BILLIO
+visibilityAddressBooks: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=x76ruo1qb,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+eluCA: Non
+mail: 45f9630f7a19c89d82b11144c17e721c@yopmail.com
+envoiMailpwd: TRUE
+uid: x76ruo1qb
+login:: PG5vbT4=
+sn: HOLLOWAY
+cn:: PE5PTT4=
+displayName: Ryad HOLLOWAY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+visibilityAddressBooks: TRUE
+company: Environ. 20 PFI
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+alimentationGrc: TRUE
+actif: FALSE
+
+dn: uid=m76ruzbcu,ou=externes,o=tiers
+alimentationGrc: TRUE
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+actif: FALSE
+eluCA: Non
+mail: 907ea6c43c484dcd50e605b5b7b0cff3@yopmail.com
+envoiMailpwd: TRUE
+uid: m76ruzbcu
+login: test3
+sn: GRACES
+cn: TEST3
+displayName: Elya GRACES
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+visibilityAddressBooks: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=k76rwx2tq,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: RUFSTCBEVSBGUk9VREVOCkZST1VERU4gCjI5ODEwIEJSRUxFUw==
+postalCode: 29810
+eluCA: Non
+mail: d355d3712a5432277c64a53784d9ad5f@yopmail.com
+envoiMailpwd: TRUE
+uid: k76rwx2tq
+login: 323539353
+mobile: +33 (0)6 67 51 60 73
+sn: WISMAN
+cn: EARL DE FROUDEN
+displayName: Raphael WISMAN
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 323539353
+telephoneNumber: +33 (0)2 98 84 32 73
+typeTiers: Entreprise
+l: BRELES
+visibilityAddressBooks: TRUE
+company: EARL DE FROUDEN
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=g76rwx31u,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: RUFSTCBERSBMQSBHQVJFTk5FCkxBIEdBUkVOTkUgCjI5MTgwIFFVRU1FTkVWRU
+ 4=
+postalCode: 29180
+eluCA: Non
+mail: 2810e352df6a0c3e8cc1897a054872db@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 98 73 53 85
+uid: g76rwx31u
+login: 447995267
+mobile: +33 (0)6 82 82 07 71
+sn: ANT
+cn: EARL DE LA GARENNE
+displayName: Zineb ANT
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 447995267
+telephoneNumber: +33 (0)2 98 73 53 85
+typeTiers: Entreprise
+l: QUEMENEVEN
+visibilityAddressBooks: TRUE
+company: EARL DE LA GARENNE
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=c76rwx325,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: RUFSTCBERVMgVkFMTE9OUwpMRVMgU0FMTEVTIAoyOTUxMCBMQU5EUkVWQVJaRU
+ M=
+postalCode: 29510
+eluCA: Non
+mail: 01b8fb88d027031f238a03122e28afcd@yopmail.com
+envoiMailpwd: TRUE
+uid: c76rwx325
+login: 434549572
+mobile: +33 (0)6 73 36 87 55
+sn: BUMPER
+cn: EARL DES VALLONS
+displayName: Rayane BUMPER
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 434549572
+telephoneNumber: +33 (0)2 98 57 91 62
+typeTiers: Entreprise
+l: LANDREVARZEC
+visibilityAddressBooks: TRUE
+company: EARL DES VALLONS
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=x76rwx3hf,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: R0FFQyBERSBLRVJSRUwKS0VSUkVMIAoyOTE1MCBDQVNU
+postalCode: 29150
+eluCA: Non
+mail: 71de39fcaf0c75cc3d69d84d678f641e@yopmail.com
+envoiMailpwd: TRUE
+uid: x76rwx3hf
+login: 351707518
+mobile: +33 (0)6 77 54 80 51
+sn: INDIFFERENT
+cn: GAEC DE KERREL
+displayName: Ugo INDIFFERENT
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 351707518
+telephoneNumber: +33 (0)2 98 73 58 32
+typeTiers: Entreprise
+l: CAST
+visibilityAddressBooks: TRUE
+company: GAEC DE KERREL
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=q76rwx3hq,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: RUFSTCBCRVJHT1QKQ1JPSVNTQU5UIEFSIFZVR0FMRSAKMjk4NjAgUExBQkVOTk
+ VD
+postalCode: 29860
+eluCA: Non
+mail: a9ff3f7ef120cf080427dcb2280592dd@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 98 07 78 57
+uid: q76rwx3hq
+login: 341188563
+mobile: +33 (0)6 11 23 93 29
+sn: ONIONS
+cn: EARL BERGOT
+displayName: Sabrina ONIONS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 341188563
+telephoneNumber: +33 (0)2 98 07 86 45
+typeTiers: Entreprise
+l: PLABENNEC
+visibilityAddressBooks: TRUE
+company: EARL BERGOT
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=h76rwx3os,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: U0NFQSBBUFBSSU9VLUdPVVJJT1UKS0xFVVogRk9TIAoyOTg3MCBMQU5ERURB
+postalCode: 29870
+eluCA: Non
+mail: 2103870d17275122ae76b0192d0a3689@yopmail.com
+envoiMailpwd: TRUE
+uid: h76rwx3os
+login: 493172431
+mobile: +33 (0)6 76 71 64 25
+sn: BOAZ
+cn: SCEA APPRIOU-GOURIOU
+displayName: Claire BOAZ
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 493172431
+telephoneNumber: +33 (0)2 98 04 86 74
+typeTiers: Entreprise
+l: LANDEDA
+visibilityAddressBooks: TRUE
+company: SCEA APPRIOU-GOURIOU
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=y76rwx4ah,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: U0NFQSBERU5JRUwgSkVBTi1KQUNRVUVTCkxJRVUgRElUIEJPVCBGQU8gCjI5OD
+ YwIFBMQUJFTk5FQw==
+postalCode: 29860
+eluCA: Non
+mail: 5060023cc56c45dff4ef102afb3bc565@yopmail.com
+envoiMailpwd: TRUE
+uid: y76rwx4ah
+login: 394867261
+mobile: +33 (0)6 15 41 48 43
+sn: PALACE
+cn: SCEA DENIEL JEAN JACQUES
+displayName: Cyrian PALACE
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 394867261
+telephoneNumber: +33 (0)2 98 40 42 21
+typeTiers: Entreprise
+l: PLABENNEC
+visibilityAddressBooks: TRUE
+company: SCEA DENIEL JEAN JACQUES
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=h76rwx4f5,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: R0FFQyBNQU5FUiBBUiBDJ0hBU1RFTApCT1VSRyAKR1VJUFJPTlZFTAoyOTI5MC
+ BNSUxJWkFDIEdVSVBST05WRUw=
+postalCode: 29290
+eluCA: Non
+mail: 2bfde0aa1ddc05f52215c5afecb5d904@yopmail.com
+envoiMailpwd: TRUE
+uid: h76rwx4f5
+login: 421490350
+mobile: +33 (0)6 60 63 01 85
+sn: SHOWERS
+cn: GAEC MANER AR C HASTEL
+displayName: Maria SHOWERS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 421490350
+telephoneNumber: +33 (0)2 98 07 91 44
+typeTiers: Entreprise
+l: MILIZAC GUIPRONVEL
+visibilityAddressBooks: TRUE
+company: GAEC MANER AR C HASTEL
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=s76rwx4gr,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: RUFSTCBERSBLRVJKRUFOIFZJQU4KS0VSSkVBTiBWSUFOIAoyOTQzMCBQTE9VTk
+ VWRVogTE9DSFJJU1Q=
+postalCode: 29430
+eluCA: Non
+mail: 96c3d83c80f787b98e5aacf266ea3b36@yopmail.com
+envoiMailpwd: TRUE
+uid: s76rwx4gr
+login: 383414786
+mobile: +33 (0)6 62 42 62 31
+sn: NIGER
+cn: EARL DE KERJEAN VIAN
+displayName: Anissa NIGER
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 383414786
+telephoneNumber: +33 (0)2 98 61 62 31
+typeTiers: Entreprise
+l: PLOUNEVEZ LOCHRIST
+visibilityAddressBooks: TRUE
+company: EARL DE KERJEAN VIAN
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=h76rwx4h1,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: RUFSTCBDVUVGRgpMIElMRSAKTUlMSVpBQwoyOTI5MCBNSUxJWkFDIEdVSVBST0
+ 5WRUw=
+postalCode: 29290
+eluCA: Non
+mail: f8ae43e1353116dafdeef75d9a8c193a@yopmail.com
+envoiMailpwd: TRUE
+uid: h76rwx4h1
+login: 508013265
+mobile: +33 (0)6 16 49 70 84
+sn: CITING
+cn: EARL CUEFF
+displayName: Ilyas CITING
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 508013265
+telephoneNumber: +33 (0)6 16 49 70 84
+typeTiers: Entreprise
+l: MILIZAC GUIPRONVEL
+visibilityAddressBooks: TRUE
+company: EARL CUEFF
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=o76rwx4j7,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: R0FFQyBERSBMQVJSRVVSLUpFWkVHT1UKU0VDSCdPVUVSIAoyOTgwMCBTVCBESV
+ ZZ
+postalCode: 29800
+eluCA: Non
+mail: 8722ccdb9585f44a419cef5f76e0035f@yopmail.com
+envoiMailpwd: TRUE
+uid: o76rwx4j7
+login: 388330698
+mobile: +33 (0)6 88 49 60 41
+sn: ANDOVER
+cn: GAEC DE LARREUR-JEZEGOU
+displayName: Sephora ANDOVER
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 388330698
+telephoneNumber: +33 (0)2 98 20 21 62
+typeTiers: Entreprise
+l: ST DIVY
+visibilityAddressBooks: TRUE
+company: GAEC DE LARREUR-JEZEGOU
+profil: Octagri-REG34-Octagri
+profil: OPERAPORTAIL-REG34-
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=l76rxpgh1,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: R0FFQyBEVSBUUklTS0VMCkxJRVUgRElUIEtFUkdPTkFOIAoyOTc5MCBCRVVaRU
+ MgQ0FQIFNJWlVO
+postalCode: 29790
+eluCA: Non
+mail: 0d2dabdbcff4691a451e16dad30e464d@yopmail.com
+envoiMailpwd: TRUE
+facsimileTelephoneNumber: +33 (0)2 98 70 58 00
+uid: l76rxpgh1
+login: 4320748881
+sn: AGGRESSIVELY
+cn: GAEC DU TRISKEL
+displayName: Thierry AGGRESSIVELY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 432074888
+telephoneNumber: +33 (0)2 98 70 58 00
+typeTiers: Entreprise
+l: BEUZEC CAP SIZUN
+visibilityAddressBooks: TRUE
+company: GAEC DU TRISKEL
+profil: Octagri-REG34-Octagri
+profil: OPERAPORTAIL-REG34-
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=p76rxqv36,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: p76rxqv36
+postalAddress:: REFOSU9OIEhFUlZFCk1FTkVaIEJSQVMgCjI5NzEwIFBMT05FSVM=
+postalCode: 29710
+eluCA: Non
+mail: d5db4f16ec9ba1198c234cd83b1803ed@yopmail.com
+envoiMailpwd: TRUE
+login: 399959006
+mobile: +33 (0)6 61 15 08 76
+sn: BOMBS
+cn: DANION HERVE
+displayName: Firdaws BOMBS
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 399959006
+telephoneNumber: +33 (0)2 98 91 08 76
+typeTiers: Entreprise
+l: PLONEIS
+visibilityAddressBooks: TRUE
+company: DANION HERVE
+profil: Octagri-REG34-Octagri
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA234
+identiteChambre: CRA053
+codeCompany: OCT20
+codeVisibilite: REG34
+
+dn: uid=p76tejmxk,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: TVIgTUFJUkUgQU1JT1QgQUxBSU4KMzcgUlVFIERFUyBURU1QTElFUlMgCjM5MT
+ AwIERPTEU=
+personalTitle: M
+postalCode: 39100
+eluCA: Non
+mail: aade2bdb48daa7390317e4b70661a587@yopmail.com
+envoiMailpwd: TRUE
+title: RESPONSABLE DE DEPARTEMENT
+uid: p76tejmxk
+login: amaireamiot
+employeeNumber: 234
+sn: POLYISOCYANATES
+cn: MAIRE AMIOT Alain
+displayName: Michel POLYISOCYANATES
+co: FRANCE
+givenName: Michel
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: DOLE
+visibilityAddressBooks: TRUE
+profil: OCTAGRI-REG27-OCTAGRI
+alimentationGrc: TRUE
+actif: TRUE
+company:: Q2hhbWJyZSByw6lnaW9uYWxlIGQnYWdyaWN1bHR1cmUgZGUgRnJhbmNoZS1Db210w6k=
+proprietaireUid: CRA127
+identiteChambre: CRA027
+codeCompany: CRAFC
+codeVisibilite: REG27
+
+dn: uid=o76thl1l0,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: o76thl1l0
+postalAddress:: MTAgRE9JR1RTIC0gTkJDCkNTIDgwMDIzCjEwIFJVRSBEVSBUUklFVSBERSBRVU
+ VTTk9ZIAo1OTExNSBMRUVSUw==
+postalCode: 59115
+eluCA: Non
+mail: 0710172adc749646cb9942a767d10ce8@yopmail.com
+envoiMailpwd: TRUE
+login: 476480116
+sn: GROTESQUES
+cn: 10 DOIGTS - NBC
+displayName: Aïsha GROTESQUES
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 476480116
+typeTiers: Entreprise
+l: LEERS
+visibilityAddressBooks: TRUE
+company: 10 DOIGTS - NBC
+profil: OPERACOLLABORATIF-REG27-
+alimentationGrc: TRUE
+actif: TRUE
+proprietaireUid: CRA127
+identiteChambre: CRA027
+codeCompany: CRAFC
+codeVisibilite: REG27
+
+dn: uid=a76udx9b3,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+eluCA: Non
+mail: 11ab005c3ea329456b57ba9fa73debc4@yopmail.com
+envoiMailpwd: TRUE
+uid: a76udx9b3
+login: usergeneri
+sn: DRY
+cn: USER GENERIQUE
+displayName: Margot DRY
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+visibilityAddressBooks: TRUE
+profil: OCTAGRI-REG27-OCTAGRI
+profil: OPERACOLLABORATIF-REG27-
+alimentationGrc: TRUE
+actif: TRUE
+company:: Q2hhbWJyZSByw6lnaW9uYWxlIGQnYWdyaWN1bHR1cmUgZGUgRnJhbmNoZS1Db210w6k=
+proprietaireUid: CRA127
+identiteChambre: CRA027
+codeCompany: CRAFC
+codeVisibilite: REG27
+
+dn: uid=abibona25r,ou=externes,o=tiers
+uid: abibona25r
+objectClass: top
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: person
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+manager: cn=admin_informatique,ou=CRAFC,ou=adminldap,ou=groupe,ou=administrati
+ on,o=tiers
+personalTitle: MME
+postalCode: 25000
+eluCA: Non
+mail: 031d6675385584447b9563d37ce296d3@yopmail.com
+envoiMailpwd: TRUE
+login: abibona25r
+sn: THYRATRON
+cn: ABIBON Aurore
+displayName: Gianni THYRATRON
+co: FRANCE
+givenName: Gianni
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: BESANCON
+visibilityAddressBooks: TRUE
+postalAddress:: TU1FIEFCSUJPTiBBVVJPUkUNCjcgQVZFTlVFIERFIExBIEdBUkUgRCBFQVUgDQ
+ oyNTAwMCBCRVNBTkNPTg==
+profil: OPUS-APCA-DOCUMENTATIONOPUS
+profil: OPERACOLLABORATIF-REG27-
+alimentationGrc: TRUE
+actif: TRUE
+company:: Q2hhbWJyZSByw6lnaW9uYWxlIGQnYWdyaWN1bHR1cmUgZGUgRnJhbmNoZS1Db210w6k=
+proprietaireUid: CRA127
+identiteChambre: CRA027
+codeCompany: CRAFC
+codeVisibilite: REG27
+
+dn: uid=royv21d,ou=externes,o=tiers
+uid: royv21d
+objectClass: top
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: comptesca
+objectClass: person
+objectClass: mailAccount
+objectClass: extensibleObject
+description: qual-uti
+manager: cn=admin_informatique,ou=CDA21,ou=adminldap,ou=groupe,ou=administrati
+ on,o=tiers
+postalAddress:: TU1FIFJPWSBWRVJPTklRVUUKQ0hBTUJSRSBEJ0FHUklDVUxUVVJFIERFIENPVE
+ UgRCdPUgpTSUVHRQoxIFJVRSBERVMgQ09VTE9UUyAKMjExMTAgQlJFVEVOSUVSRQ==
+adresse2: CHAMBRE D'AGRICULTURE DE COTE D'OR
+personalTitle: MME
+postalCode: 21110
+DateOfBirth: 19590107
+eluCA: Non
+mail: f23f5eea1686ccfa8cd84da1fe4e47a6@yopmail.com
+envoiMailpwd: TRUE
+title: Assistante
+login: royv21d
+employeeNumber: 443
+mobile: +33 (0)6 31 67 98 95
+sn: HUNGRY
+cn: ROY Veronique
+displayName: Lydia HUNGRY
+co: FRANCE
+givenName: Lydia
+agricole: Non
+ressource: Non
+salarieCA: Non
+telephoneNumber: +33 (0)3 80 68 66 27
+typeTiers: Individu
+l: BRETENIERE
+visibilityAddressBooks: TRUE
+company:: Q2hhbWJyZSByw6lnaW9uYWxlIGQnYWdyaWN1bHR1cmUgZGUgRnJhbmNoZS1Db210w6k=
+identiteChambre: CRA027
+codeCompany: CRAFC
+codeVisibilite: REG27
+alimentationGrc: TRUE
+actif: FALSE
+
+dn: uid=x76xk1muy,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+uid: x76xk1muy
+alimentationGrc: TRUE
+actif: FALSE
+postalAddress: 75000 PARIS
+personalTitle: M
+postalCode: 75000
+eluCA: Non
+mail: 9c9d31dbe5cf8bce168bfc933255f60e@yopmail.com
+mailAlias: ldelgado@gmail.fr;luc.delgado1@free.fr
+envoiMailpwd: TRUE
+login: ldelgado21
+sn: NUN
+cn: DELGADO Luc
+displayName: Emma NUN
+co: FRANCE
+jpegPhoto:: /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODw
+ wQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhY
+ aKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABd
+ AGQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEA
+ wUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKS
+ o0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqK
+ jpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QA
+ HwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEB
+ SExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSE
+ lKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba
+ 3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDlqKKK
+ +rPOCiiigAorW8LaK2v6zBYpPFEXYFtzYYoOW2cYJAycf/XqnqVm+mahLaXDwTTQNtkETFl3A8rnj
+ 6HH8651iqTrvDJ++knbyel/wK5Hy83Qq0V0/imfw/JpenR6LCRdQp5U5Z2O3+P5cgbxudxuP90cYI
+ NV/D3hifW9O1G7gubVFs4t7CSTaVOR9/I4XaHOfUfWuaOZ01h/rOIi6cb297R72V7Xtcp0nzcsdfQ
+ wKKVgAxAYMAcbhnB9+aSvRMwooooAKKKKACiiigArW8LaK+v6xBYxzRRF2Bbc2GKfxFR/EQMnH/16
+ yamt5LiCKWe3eSNOIJJEOPvAnbn3Ct+ANYYqNSVGUaMuWTWjetn006+hUWk1fYmu4bnSb24tTOizo
+ DDMbeTI9GTcPyP4j1FVp5pLiZ5Z5Gklc5Z3OSx9Se596J5pLiZ5p3aSVzud2OSx9Se596ZV04NJSn
+ bmtq1+PyE322Cp7e8ubZdtvcSxLu34RiATgjJHfgkc9ifU1BRVyhGatJXQk7bG94e8M3Gt6fqF1b3
+ Fsi2cW9g8oUqcj72ei7Q53dMrj1rCYYYgMGAOMjofepre+ubRCLe5lhXdvIRiATgjn14JHPYn1NRT
+ RPbzyQTIUliYxuh6qwOCD+Nc1GNeNabqzTi/hVtUra376/mU3GyshtFFFdRIUUUUAFFFFABXS2niq
+ S38LS6MLdWZ8kXRVd6HI2gfLyMbhkncN/BGBnmq2/B9ppl3rUa61M0NnEPOdjjYQvJViSCAeBxk5I
+ GOcjgzKnh5UfaYiHMoe8ktXdbWS39NmaU3JStF2voYlFXNYtoLLU7i2tJZJ4YWKCVwo8zH8QwSMHq
+ OeRg+1U67KdRVIKcdnqQ1Z2CiiirEXtDvzpeq215s8xYmBePjEi91OQRg9M446jkCrPijW5Nf1P7Z
+ JEsJKAGJMbVbHzEcZOTzzk84ycCr/hXS9Hv9O1B9TvJLe5CbIEwvzv8AfHl5YZbCFcHA+cc5IrmWK
+ liUztzxnrivNpLDV8ZOooP2lNct2ns9dOj9d9LGj5owSvowooor0jMKKKKACiiigApKWigDa8IWen
+ XmtRJrE5gs4/30jEDYVXkq5JBAPTIyckDHNU9Ys4bPVp7Ozme4jjfy1ldVXzP9oYJG09Qc8jniqFG
+ OMVzKhUWIdb2j5Wrculk+/e/f/gFcy5bWNfVfD2qaVaW9zfWc0MUy5y6kbG3MApz/ABYXdj0IrQ8L
+ 6TpOoaVqMuo3slvcqmyBNiku4+f93lhubapXBwPnHOSKydT1i91K2tre8kV4bUbbdQgHlLtC7Vx2w
+ q9c9Pc5zsCub2GMr4bkrVFCpe94LondLXy0f3ebrmhGV0rrzFbaSdudvbPXFFFFekZhRRRQAUUUUA
+ ew/wDCsvC32a0uP+Eku/Ju1d4G8tfnCKWYj5ewUn8Kjl+HPhGLT4b5/FNz9jmsZNTjlCKVa2jCF5B
+ hegEie/zV1lv4P117ay066/s2Oz0uC8itp47h2kuGlRo496GMCMBXJbDPyABxzVXVPhxqTw6lb6dd
+ Wa2l3oN9YpBIzAQ3lyId7KQp/dM0Rc8bg7Ofm3YX5365W/mO32UOxzd98OvCdjqLWV14i1FJY3SKW
+ QWxaGF3xtSSUIUjY7kwrMCd6/3hmdfhh4WZLp18S3RW1vEsJsIv7u4dkVYzx1JkT/voV1+q+F9bm0
+ nxLoFmNNbSdcknJvZZ3WeBLgYlHlhCHZdzFDvUY2g425aPUfAl/LeLe2dzaw3MmrxXN0rFtk9ol2l
+ woOBkSoVbaeR87r/EGU+uVv5g9lDscfqvw28M6ZqH2G51nW5LvylmaO106S5KoxZVZvLjbaCUYDOM
+ 7T6VOfhZ4aEbSHxHebFuxYk+WvE5YKE+71yQPTmuz8S+HdYuPGbaxp1tb3MLWdvAFbXLrTirxSTOd
+ ywxssqkSrw3TDDGCcsfwxrLanJaY0/+xpNaTV/tXnv54ClZPL8rZtzvXG7f905xnij65W/mD2UOxw
+ mmfD3wlqV8tpa+IdT812kSIy2bRJMyEhxG7oFkIwchSeAT0FMs/APg+7Z/J8S6gFEL3KSSWpjjniU
+ AtJE7IFlQAg7kLDDA9CK6m3+Hkwa0sr2+eVJYNRSeH7VMyWxnLhbiAEbRIFlMZUgcOxU/KwfR1Lw3
+ 4j12w06z1SLR7UabDMY5LaeRxcTtay26/IYx5ce2ZmIy5BAAyBkn1yt/MHsodjz8eCfBxtZZv7f1p
+ SgiYQvp0iTSCRtiFI2jDOGYgAqCM0J4F8MCG2+0an4hjupYvNa2j0meSSMZ2klRDuA3AgEgZxxXf6
+ x8P8+HYotNM1zqym0DyXmrXK/JFKkjJHKNzxAlc5QAkhc9BipN4U8Qf2jZ3qWFuxitfs/k/wDCWag
+ hDCV3BaYRb5gQ3Rx8uMDINH1yt/MHsodjnG+GPhZZdSibxNciXTZI4rtNqboWkVWQMMZ+YOuD06+h
+ wW3wy8K3Ucj2/ie5kWO9bTn2qhKXCttMZGOGz69iD0INdZ4g8Dajf3+rajYXNpBe3eowS4dmKS2gj
+ tleKTA4YPCzoRnB4yA7ikj8C6jb39jeWlxaI7avNd6hGWYrNAbqaeFl44lQSBfQhmBJ2oQfXK38we
+ yh2OETwN4TkBaHV/Ek8YZlEkOi3EiMQSDtZYSCMg8gkUV1eneC9fsrX7ObGOba7kSR+MtStlYFywx
+ EkW1OD90cCij65W/mD2UOx6ZqOpWOmJE+pXttaJNIIY2uJVjDuc4QZIyxweBzxXnvxCsbbxLeTT6b
+ f2M0tnpWp2CbZ4Dtu3WJRGxbLIwzklSpBwGODg7/AMQNOi1efw1p900gtrnUZIplQgF4zZXQZCSDg
+ EZBIweeCDzXktnq282BaE7jraeFSd/dfLP2jp3x9z3+9XMaCXfhq/1G3vLrR4LJrGSC+sDDHe2+2G
+ WY6l5ELbXKBlN3BHtB4MwA4BI6jwfBbab4l+3zQ6daWtgtyl3K95bbdPV7q5eKE7HJjcCUKU5Q5HI
+ MYDZMuonQfh1rN/IJLxra70fUFDuFOzz4MQggcAGNiDgn5+c4yWab4uVfB/jSYWcpOj61HfFWuSVl
+ 3ai021RtxH0wSM5POO1AFPRbZYdH03SIkt4bmHSo/tJe8skVHWCZyx8qTlWVgVbBO0bnIHzGePw9N
+ NBdWlmum3kkFvexRzWtzbKlqVF55ihQ4MW4XVsrBRgEHfgbS2Po+oRXyXukPbuC8ujy+YZiyBLu3t
+ LORRHjAPl3MnzZ544pJPFYuYJdNFpLm5i8QaOZZLkybSfIfzFUjheMbAce9AGxq2kaTbNexWNxZX1
+ tcW1tdRS202mpEYo79p7jy1kbIVQHwDmLCncS2TWtpvmWmpeJ20u701JNR09p9PQ39uGE9wUiiGFY
+ 4U7bfBHBL4XJIBx9KSLxHo2u63J5tu66cb6GJGBEckt3qi5JK/MVWRwO3zZIOBhvjbUo9C1Pxjodt
+ HdO9tFaaslw9ydplWe2bJjAxvMnzFhj0AAoAsR2I8ldOkTRFmFiLVZmvbebZaxMYFUMZFZlLRZKsm
+ 0lzna4KiXQ9PS2vIxdrpd+NOcS3CpqMCLY7YrAfbCA/wAkafZp9oxnbtXaFY4xNJmhbUU8KzRTPFf
+ WVvE0onKqEXWLhD+7xgsQeDniul0i7l1D4S+Ibu4b99ceDYJnK8fM0Nyxx+JoAzINPmt/Bt7FFa20
+ UF9oV/AipfWYjhZ7O3UMx83btke0uXDLuHVm2/Nj1/wxqGmReH9OSGeC3jaJGjjkktwxV32ocQny/
+ mYgDZwSQBzxXiep3Ik1LUtKw4eLTtSuXuSw3yvFLqsDMQBgM7TGQ4AUHICgEYg129l0W3uvEDBLld
+ M1NdIkiIKyXUkGoRXLXDODtBd9+VCYBc4OAFoA+k6Kr6bc/bdOtbrZs8+JJduc7dwBxn8aKAP/2Wd
+ PAABEAGQAEgFgAQAAAAAAAAAAAAAAAAAAAAAOEKAU1ADSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ AAAAAAAAAAAADwAE8J4AAACyBArwCAAAAAYEAAAACgAAYwAL8HoAAAAEQQIAAAAFwVYAAAAGAQIAA
+ ACBAREAABC/AQAAEAD/AQAACABGADoAXABWAEkAVgBFAEEAIAAyADAAMQAxAFwAbABvAGcAbwBzAF
+ wAbQBhAGEAcABDAE8AVQBMAF8AYwBsAGUAOABmADgANwAzADEALgBKAFAARwAAAAAAEPAEAAAAAwA
+ AwFIAB/B1TgAABQVcEBhYJHAD8obX+GaDjYrJ/wBRTgAABgAAAH1/AQAAAOoAoEYd8ElOAABcEBhY
+ JHAD8obX+GaDjYrJ///Y/+AAEEpGSUYAAQEBAGAAYAAA/+EAFkV4aWYAAElJKgAIAAAAAAAAAAAA/
+ 9sAQwAIBgYHBgUIBwcHCQkICgwUDQwLCwwZEhMPFB0aHx4dGhwcICQuJyAiLCMcHCg3KSwwMTQ0NB
+ 8nOT04MjwuMzQy/9sAQwEJCQkMCwwYDQ0YMiEcITIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjI
+ yMjIyMjIyMjIyMjIyMjIyMjIyMjIy/8AAEQgBYAESAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAA
+ AAAAAA==
+givenName: Emma
+agricole: Non
+ressource: Non
+salarieCA: Non
+typeTiers: Individu
+l: PARIS
+visibilityAddressBooks: TRUE
+proprietaireUid: CRA235
+identiteChambre: CRA052
+codeCompany: CRAPL-SIFI
+codeVisibilite: REG52
+
+dn: uid=r76xmommy,ou=externes,o=tiers
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: comptesca
+objectClass: mailAccount
+objectClass: extensibleObject
+postalAddress:: QUJSQVgKQUROIElNUFJJTUVVUgpaQUMgREUgTCdFVVJPUEUKMiBCSVMgUlVFIE
+ NIQU1QRUFVIAoyMTgwMCBRVUVUSUdOWQ==
+adresse2: ADN IMPRIMEUR
+postalCode: 21800
+eluCA: Non
+mail: 475bb93555127cbdd025df8c73b7ec2d@yopmail.com
+envoiMailpwd: TRUE
+uid: r76xmommy
+login: 811911114
+sn: ORTHODONTIC
+cn: ABRAX
+displayName: Domitille ORTHODONTIC
+co: FRANCE
+agricole: Non
+ressource: Non
+salarieCA: Non
+siren: 811911114
+telephoneNumber: +33 (0)3 80 46 94 04
+typeTiers: Entreprise
+l: QUETIGNY
+visibilityAddressBooks: TRUE
+company: ABRAX
+identiteChambre: CRA027
+codeCompany: CRAFC
+codeVisibilite: REG27
+alimentationGrc: TRUE
+actif: FALSE
+

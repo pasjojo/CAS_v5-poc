@@ -1,0 +1,55 @@
+version: '2'
+
+services:
+
+  apca_cas_server:
+    image: openjdk:8-jdk-alpine
+    container_name: apca_cas_server
+    ports:
+      - 8443:8443
+    mem_limit: 2048m
+    restart: always
+    environment:
+    - TERM=xterm
+    - TZ=Europe/Paris
+    volumes:
+      - /opt/docker/cas/log:/etc/cas/log
+      - /opt/docker/cas/config:/etc/cas/config
+      - /opt/docker/cas/services:/etc/cas/services
+      - /opt/docker/cas/webapps:/app
+      - /opt/docker/cas/thekeystore:/etc/cas/thekeystore
+    links:
+      - apca_cas_openldap:ldap
+    entrypoint:
+      - java
+      - -jar
+      - /app/cas.war
+    network_mode: bridge
+
+  apca_cas_openldap:
+    image: dinkel/openldap
+    container_name: apca_cas_openldap
+    restart: always
+    labels:
+      wcm-zabbix: 'yes'
+    ports:
+    - 389:389
+    environment:
+    - TERM=xterm
+    - TZ=Europe/Paris
+    - SLAPD_DOMAIN=localhost.localdomain
+    - SLAPD_PASSWORD=12345
+    - SLAPD_CONFIG_PASSWORD=12345
+    volumes:
+    - /opt/docker/cas/ldap/prepopulate:/etc/ldap.dist/prepopulate
+    - /opt/docker/cas/ldap/data:/var/lib/ldap
+    - /opt/docker/cas/ldap/provider.slapd.conf:/usr/share/slapd/slapd.conf
+    - /opt/docker/cas/ldap/logs:/var/log/
+    network_mode: bridge
+
+  apca_cas_phpldapadmin:
+    image: dinkel/phpldapadmin
+    container_name: apca_cas_phpldapadmin
+    links:
+      - apca_cas_openldap:openldap
+    network_mode: bridge

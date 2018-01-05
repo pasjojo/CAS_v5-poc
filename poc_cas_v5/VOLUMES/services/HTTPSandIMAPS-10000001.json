@@ -1,0 +1,45 @@
+{
+  @class: org.apereo.cas.services.RegexRegisteredService
+  serviceId: ^(https|imaps)://.*
+  name: HTTPS and IMAPS
+  id: 10000001
+  description: This service definition authorizes all application urls that support HTTPS and IMAPS protocols.
+  proxyPolicy:
+  {
+    @class: org.apereo.cas.services.RefuseRegisteredServiceProxyPolicy
+  }
+  evaluationOrder: 40000
+  usernameAttributeProvider:
+  {
+    @class: org.apereo.cas.services.DefaultRegisteredServiceUsernameProvider
+    canonicalizationMode: NONE
+    encryptUsername: false
+  }
+  attributeReleasePolicy:
+  {
+    @class: org.apereo.cas.services.ReturnAllowedAttributeReleasePolicy
+    principalAttributesRepository:
+    {
+      @class: org.apereo.cas.authentication.principal.DefaultPrincipalAttributesRepository
+      expiration: 2
+      timeUnit: HOURS
+    }
+    authorizedToReleaseCredentialPassword: false
+    authorizedToReleaseProxyGrantingTicket: false
+    excludeDefaultAttributes: false
+  }
+  multifactorPolicy:
+  {
+    @class: org.apereo.cas.services.DefaultRegisteredServiceMultifactorPolicy
+    failureMode: CLOSED
+    bypassEnabled: false
+  }
+  accessStrategy:
+  {
+    @class: org.apereo.cas.services.DefaultRegisteredServiceAccessStrategy
+    enabled: true
+    ssoEnabled: true
+    requireAllAttributes: true
+    caseInsensitive: false
+  }
+}

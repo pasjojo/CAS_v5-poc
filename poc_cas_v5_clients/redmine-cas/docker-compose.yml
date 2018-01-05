@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+
+  redmine:
+    build: .
+#    image: redmine:3.3
+    container_name: redmine-test-client
+    network_mode: bridge

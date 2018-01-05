@@ -1,0 +1,21 @@
+dn: cn={7}mail,cn=schema,cn=config
+changetype: modify
+replace: olcobjectclasses
+# existe deja je remplace
+#olcobjectclasses: {0}( 1.3.6.1.4.1.21103.1.2.13.1 NAME 'mailAccount' DESC
+#'Mail Account' SUP top AUXILIARY MUST mail MAY ( mailalias $ maildrop $
+#mailenable $ mailbox $ mailuserquota $ mailhost $ mailproxy $ mailhidden ) )
+olcobjectclasses: {0}( 1.3.6.1.4.1.15241.1.2.1 NAME 'mailAccount' DESC 'Mail
+  account objects' SUP top AUXILIARY MAY ( quotamail $ quotaarchive $ mailRo
+ utingAddress ) )
+# repis de l'existant
+olcobjectclasses: {1}( 1.3.6.1.4.1.21103.1.2.13.2 NAME 'mailDomain' DESC'Domain
+ mail entry' SUP top STRUCTURAL MUST virtualdomain MAY (
+ virtualdomaindescription $
+ mailuserquota ) )
+olcobjectclasses: {2}( 1.3.6.1.4.1.21103.1.2.13.3 NAME 'mailGroup' DESC 'Mail
+ Group' SUP top AUXILIARY MUST mail MAY mailhidden )
+olcobjectclasses: {3}( 1.3.6.1.4.1.21103.1.2.13.4 NAME 'mailAlias' DESC 'Mail
+ Alias' SUP top STRUCTURAL MUST mailalias MAY ( mail $ mailaliasmember $
+ mailenable ) )
+

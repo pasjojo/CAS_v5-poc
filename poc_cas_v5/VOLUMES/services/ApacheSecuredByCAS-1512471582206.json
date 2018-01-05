@@ -1,0 +1,11 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http://172.17.0.[2-9]/secured-by-cas(\\z|/.*)",
+  "name" : "Apache Secured By CAS",
+  "id": 1512471582206,
+  "description" : "CAS development Apache mod_auth_cas server with username/password protection",
+  "attributeReleasePolicy" : {
+    "@class" : "org.apereo.cas.services.ReturnAllAttributeReleasePolicy"
+  },
+  "evaluationOrder" : 1100
+}

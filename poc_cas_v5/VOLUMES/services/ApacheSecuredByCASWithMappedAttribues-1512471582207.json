@@ -1,0 +1,16 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http://172.17.0.[2-9]/return-mapped(\\z|/.*)",
+  "name" : "Apache Secured By CAS With Mapped Attributes",
+  "id": 1512471582207,
+  "description" : "Display results of a Return Mapped attribute relea se policy",
+  "attributeReleasePolicy" : {
+    "@class" : "org.apereo.cas.services.ReturnMappedAttributeReleasePolicy",
+    "allowedAttributes" : {
+      "@class" : "java.util.TreeMap",
+      "cn" : "cn",
+      "sn" : "sn"
+    }
+  },
+  "evaluationOrder" : 1150
+}
